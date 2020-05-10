@@ -1,0 +1,3213 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+    <string name="tab1">Stock</string>
+    <string name="tab2">Data</string>
+    <string-array name="stocklist">
+        <item></item>
+        <item>AACG ATA Creativity Global</item>
+        <item>AAL American Airlines Group, Inc.</item>
+        <item>AAME Atlantic American Corporation</item>
+        <item>AAOI Applied Optoelectronics, Inc.</item>
+        <item>AAON AAON, Inc.</item>
+        <item>AAPL Apple Inc.</item>
+        <item>AAWW Atlas Air Worldwide Holdings</item>
+        <item>AAXN Axon Enterprise, Inc.</item>
+        <item>ABCB Ameris Bancorp</item>
+        <item>ABEO Abeona Therapeutics Inc.</item>
+        <item>ABIO ARCA biopharma, Inc.</item>
+        <item>ABMD ABIOMED, Inc.</item>
+        <item>ABTX Allegiance Bancshares, Inc.</item>
+        <item>ABUS Arbutus Biopharma Corporation</item>
+        <item>ACAD ACADIA Pharmaceuticals Inc.</item>
+        <item>ACAM Acamar Partners Acquisition Corp.</item>
+        <item>ACAMU Acamar Partners Acquisition Corp.</item>
+        <item>ACAMW Acamar Partners Acquisition Corp.</item>
+        <item>ACBI Atlantic Capital Bancshares, Inc.</item>
+        <item>ACER Acer Therapeutics Inc.</item>
+        <item>ACGL Arch Capital Group Ltd.</item>
+        <item>ACGLO Arch Capital Group Ltd.</item>
+        <item>ACGLP Arch Capital Group Ltd.</item>
+        <item>ACHC Acadia Healthcare Company, Inc.</item>
+        <item>ACHV Achieve Life Sciences, Inc. </item>
+        <item>ACIA Acacia Communications, Inc.</item>
+        <item>ACIU AC Immune SA</item>
+        <item>ACIW ACI Worldwide, Inc.</item>
+        <item>ACLS Axcelis Technologies, Inc.</item>
+        <item>ACMR ACM Research, Inc.</item>
+        <item>ACNB ACNB Corporation</item>
+        <item>ACOR Acorda Therapeutics, Inc.</item>
+        <item>ACRS Aclaris Therapeutics, Inc.</item>
+        <item>ACRX AcelRx Pharmaceuticals, Inc.</item>
+        <item>ACST Acasti Pharma, Inc.</item>
+        <item>ACTG Acacia Research Corporation</item>
+        <item>ACTT Act II Global Acquisition Corp.</item>
+        <item>ACTTU Act II Global Acquisition Corp.</item>
+        <item>ACTTW Act II Global Acquisition Corp.</item>
+        <item>ADAP Adaptimmune Therapeutics plc</item>
+        <item>ADBE Adobe Inc.</item>
+        <item>ADES Advanced Emissions Solutions, Inc.</item>
+        <item>ADI Analog Devices, Inc.</item>
+        <item>ADIL Adial Pharmaceuticals, Inc</item>
+        <item>ADILW Adial Pharmaceuticals, Inc</item>
+        <item>ADMA ADMA Biologics Inc</item>
+        <item>ADMP Adamis Pharmaceuticals Corporation</item>
+        <item>ADMS Adamas Pharmaceuticals, Inc.</item>
+        <item>ADP Automatic Data Processing, Inc.</item>
+        <item>ADPT Adaptive Biotechnologies Corporation</item>
+        <item>ADRO Aduro Biotech, Inc.</item>
+        <item>ADSK Autodesk, Inc.</item>
+        <item>ADTN ADTRAN, Inc.</item>
+        <item>ADUS Addus HomeCare Corporation</item>
+        <item>ADVM Adverum Biotechnologies, Inc.</item>
+        <item>ADXN Addex Therapeutics Ltd</item>
+        <item>ADXS Advaxis, Inc.</item>
+        <item>AEGN Aegion Corp</item>
+        <item>AEHR Aehr Test Systems</item>
+        <item>AEIS Advanced Energy Industries, Inc.</item>
+        <item>AEMD Aethlon Medical, Inc.</item>
+        <item>AERI Aerie Pharmaceuticals, Inc.</item>
+        <item>AESE Allied Esports Entertainment, Inc.</item>
+        <item>AEY ADDvantage Technologies Group, Inc.</item>
+        <item>AEYE AudioEye, Inc.</item>
+        <item>AEZS Aeterna Zentaris Inc.</item>
+        <item>AFH Atlas Financial Holdings, Inc.</item>
+        <item>AFIN American Finance Trust, Inc.</item>
+        <item>AFINP American Finance Trust, Inc.</item>
+        <item>AFMD Affimed N.V.</item>
+        <item>AFYA Afya Limited</item>
+        <item>AGBA AGBA Acquisition Limited</item>
+        <item>AGBAR AGBA Acquisition Limited</item>
+        <item>AGBAU AGBA Acquisition Limited</item>
+        <item>AGBAW AGBA Acquisition Limited</item>
+        <item>AGEN Agenus Inc.</item>
+        <item>AGFS AgroFresh Solutions, Inc.</item>
+        <item>AGFSW AgroFresh Solutions, Inc.</item>
+        <item>AGIO Agios Pharmaceuticals, Inc.</item>
+        <item>AGLE Aeglea BioTherapeutics, Inc.</item>
+        <item>AGMH AGM Group Holdings Inc.</item>
+        <item>AGNC AGNC Investment Corp.</item>
+        <item>AGNCM AGNC Investment Corp.</item>
+        <item>AGNCN AGNC Investment Corp.</item>
+        <item>AGNCO AGNC Investment Corp.</item>
+        <item>AGNCP AGNC Investment Corp.</item>
+        <item>AGRX Agile Therapeutics, Inc.</item>
+        <item>AGTC Applied Genetic Technologies Corporation</item>
+        <item>AGYS Agilysys, Inc.</item>
+        <item>AHCO AdaptHealth Corp. </item>
+        <item>AHPI Allied Healthcare Products, Inc.</item>
+        <item>AIH Aesthetic Medical International Holdings Group Ltd.</item>
+        <item>AIHS Senmiao Technology Limited</item>
+        <item>AIKI AIkido Pharma Inc.</item>
+        <item>AIMC Altra Industrial Motion Corp.</item>
+        <item>AIMT Aimmune Therapeutics, Inc.</item>
+        <item>AINV Apollo Investment Corporation</item>
+        <item>AIRG Airgain, Inc.</item>
+        <item>AIRT Air T, Inc.</item>
+        <item>AIRTP Air T, Inc.</item>
+        <item>AIRTW Air T, Inc.</item>
+        <item>AKAM Akamai Technologies, Inc.</item>
+        <item>AKBA Akebia Therapeutics, Inc.</item>
+        <item>AKCA Akcea Therapeutics, Inc.</item>
+        <item>AKER Akers Biosciences Inc.</item>
+        <item>AKRO Akero Therapeutics, Inc.</item>
+        <item>AKRX Akorn, Inc.</item>
+        <item>AKTS Akoustis Technologies, Inc.</item>
+        <item>AKTX Akari Therapeutics Plc</item>
+        <item>ALAC Alberton Acquisition Corporation</item>
+        <item>ALACR Alberton Acquisition Corporation</item>
+        <item>ALACU Alberton Acquisition Corporation</item>
+        <item>ALACW Alberton Acquisition Corporation</item>
+        <item>ALBO Albireo Pharma, Inc.</item>
+        <item>ALCO Alico, Inc.</item>
+        <item>ALDX Aldeyra Therapeutics, Inc.</item>
+        <item>ALEC Alector, Inc.</item>
+        <item>ALGN Align Technology, Inc.</item>
+        <item>ALGR Allegro Merger Corp.</item>
+        <item>ALGRR Allegro Merger Corp.</item>
+        <item>ALGRU Allegro Merger Corp.</item>
+        <item>ALGRW Allegro Merger Corp.</item>
+        <item>ALGT Allegiant Travel Company</item>
+        <item>ALIM Alimera Sciences, Inc.</item>
+        <item>ALJJ ALJ Regional Holdings, Inc.</item>
+        <item>ALKS Alkermes plc</item>
+        <item>ALLK Allakos Inc.</item>
+        <item>ALLO Allogene Therapeutics, Inc.</item>
+        <item>ALLT Allot Ltd.</item>
+        <item>ALNA Allena Pharmaceuticals, Inc.</item>
+        <item>ALNY Alnylam Pharmaceuticals, Inc.</item>
+        <item>ALOT AstroNova, Inc.</item>
+        <item>ALPN Alpine Immune Sciences, Inc.</item>
+        <item>ALRM Alarm.com Holdings, Inc.</item>
+        <item>ALRN Aileron Therapeutics, Inc.</item>
+        <item>ALRS Alerus Financial Corporation</item>
+        <item>ALSK Alaska Communications Systems Group, Inc.</item>
+        <item>ALT Altimmune, Inc.</item>
+        <item>ALTM Altus Midstream Company</item>
+        <item>ALTR Altair Engineering Inc.</item>
+        <item>ALXN Alexion Pharmaceuticals, Inc.</item>
+        <item>ALYA Alithya Group inc.</item>
+        <item>AMAG AMAG Pharmaceuticals, Inc.</item>
+        <item>AMAL Amalgamated Bank</item>
+        <item>AMAT Applied Materials, Inc.</item>
+        <item>AMBA Ambarella, Inc.</item>
+        <item>AMCI AMCI Acquisition Corp.</item>
+        <item>AMCIU AMCI Acquisition Corp.</item>
+        <item>AMCIW AMCI Acquisition Corp.</item>
+        <item>AMCX AMC Networks Inc.</item>
+        <item>AMD Advanced Micro Devices, Inc.</item>
+        <item>AMED Amedisys Inc</item>
+        <item>AMEH Apollo Medical Holdings, Inc.</item>
+        <item>AMGN Amgen Inc.</item>
+        <item>AMHC Amplitude Healthcare Acquisition Corporation</item>
+        <item>AMHCU Amplitude Healthcare Acquisition Corporation</item>
+        <item>AMHCW Amplitude Healthcare Acquisition Corporation</item>
+        <item>AMKR Amkor Technology, Inc.</item>
+        <item>AMNB American National Bankshares, Inc.</item>
+        <item>AMOT Allied Motion Technologies, Inc.</item>
+        <item>AMPH Amphastar Pharmaceuticals, Inc.</item>
+        <item>AMRB American River Bankshares</item>
+        <item>AMRH Ameri Holdings, Inc.</item>
+        <item>AMRHW Ameri Holdings, Inc.</item>
+        <item>AMRK </item>
+        <item>AMRN Amarin Corporation plc</item>
+        <item>AMRS Amyris, Inc.</item>
+        <item>AMSC American Superconductor Corporation</item>
+        <item>AMSF AMERISAFE, Inc.</item>
+        <item>AMSWA American Software, Inc.</item>
+        <item>AMTB Amerant Bancorp Inc.</item>
+        <item>AMTBB Amerant Bancorp Inc.</item>
+        <item>AMTD TD Ameritrade Holding Corporation</item>
+        <item>AMTX Aemetis, Inc</item>
+        <item>AMWD American Woodmark Corporation</item>
+        <item>AMZN Amazon.com, Inc.</item>
+        <item>ANAB AnaptysBio, Inc.</item>
+        <item>ANAT American National Insurance Company</item>
+        <item>ANCN Anchiano Therapeutics Ltd.</item>
+        <item>ANDA Andina Acquisition Corp. III</item>
+        <item>ANDAR Andina Acquisition Corp. III</item>
+        <item>ANDAU Andina Acquisition Corp. III</item>
+        <item>ANDAW Andina Acquisition Corp. III</item>
+        <item>ANDE The Andersons, Inc.</item>
+        <item>ANGI ANGI Homeservices Inc.</item>
+        <item>ANGO AngioDynamics, Inc.</item>
+        <item>ANIK Anika Therapeutics Inc.</item>
+        <item>ANIP ANI Pharmaceuticals, Inc.</item>
+        <item>ANIX Anixa Biosciences, Inc.</item>
+        <item>ANPC AnPac Bi</item>
+        <item>ANSS ANSYS, Inc.</item>
+        <item>ANTE AirNet Technology Inc.</item>
+        <item>ANY Sphere 3D Corp.</item>
+        <item>AOBC American Outdoor Brands Corporation</item>
+        <item>AOSL Alpha and Omega Semiconductor Limited</item>
+        <item>APDN Applied DNA Sciences, Inc.</item>
+        <item>APEI American Public Education, Inc.</item>
+        <item>APEN Apollo Endosurgery, Inc.</item>
+        <item>APEX Apex Global Brands Inc.</item>
+        <item>APLS Apellis Pharmaceuticals, Inc.</item>
+        <item>APLT Applied Therapeutics, Inc.</item>
+        <item>APM Aptorum Group Limited</item>
+        <item>APOG Apogee Enterprises, Inc.</item>
+        <item>APOP Cellect Biotechnology Ltd.</item>
+        <item>APOPW Cellect Biotechnology Ltd.</item>
+        <item>APPF AppFolio, Inc.</item>
+        <item>APPN Appian Corporation</item>
+        <item>APPS Digital Turbine, Inc.</item>
+        <item>APRE Aprea Therapeutics, Inc.</item>
+        <item>APTO Aptose Biosciences, Inc.</item>
+        <item>APTX Aptinyx Inc.</item>
+        <item>APVO Aptevo Therapeutics Inc.</item>
+        <item>APWC Asia Pacific Wire &amp; Cable Corporation Limited</item>
+        <item>APXT Apex Technology Acquisition Corporation</item>
+        <item>APXTU Apex Technology Acquisition Corporation</item>
+        <item>APXTW Apex Technology Acquisition Corporation</item>
+        <item>APYX Apyx Medical Corporation</item>
+        <item>AQB AquaBounty Technologies, Inc.</item>
+        <item>AQMS Aqua Metals, Inc.</item>
+        <item>AQST Aquestive Therapeutics, Inc.</item>
+        <item>ARAV Aravive, Inc.</item>
+        <item>ARAY Accuray Incorporated</item>
+        <item>ARCB ArcBest Corporation</item>
+        <item>ARCC Ares Capital Corporation</item>
+        <item>ARCE Arco Platform Limited</item>
+        <item>ARCT Arcturus Therapeutics Holdings Inc.</item>
+        <item>ARDS Aridis Pharmaceuticals Inc.</item>
+        <item>ARDX Ardelyx, Inc.</item>
+        <item>AREC American Resources Corporation</item>
+        <item>ARGX argenx SE</item>
+        <item>ARKR Ark Restaurants Corp.</item>
+        <item>ARLP Alliance Resource Partners, L.P.</item>
+        <item>ARNA Arena Pharmaceuticals, Inc.</item>
+        <item>AROW Arrow Financial Corporation</item>
+        <item>ARPO Aerpio Pharmaceuticals, Inc.</item>
+        <item>ARQT Arcutis Biotherapeutics, Inc.</item>
+        <item>ARTL Artelo Biosciences, Inc.</item>
+        <item>ARTLW Artelo Biosciences, Inc.</item>
+        <item>ARTNA Artesian Resources Corporation</item>
+        <item>ARTW Art\'</item>
+        <item>ARVN Arvinas, Inc.</item>
+        <item>ARWR Arrowhead Pharmaceuticals, Inc.</item>
+        <item>ARYA ARYA Sciences Acquisition Corp.</item>
+        <item>ARYAU ARYA Sciences Acquisition Corp.</item>
+        <item>ARYAW ARYA Sciences Acquisition Corp.</item>
+        <item>ASFI Asta Funding, Inc.</item>
+        <item>ASLN ASLAN Pharmaceuticals Limited</item>
+        <item>ASMB Assembly Biosciences, Inc.</item>
+        <item>ASML ASML Holding N.V.</item>
+        <item>ASNA Ascena Retail Group, Inc.</item>
+        <item>ASND Ascendis Pharma A/S</item>
+        <item>ASPS Altisource Portfolio Solutions S.A.</item>
+        <item>ASPU Aspen Group Inc.</item>
+        <item>ASRT Assertio Therapeutics, Inc.</item>
+        <item>ASRV AmeriServ Financial Inc.</item>
+        <item>ASRVP AmeriServ Financial Inc.</item>
+        <item>ASTC Astrotech Corporation</item>
+        <item>ASTE Astec Industries, Inc.</item>
+        <item>ASUR Asure Software Inc</item>
+        <item>ASYS Amtech Systems, Inc.</item>
+        <item>ATAX America First Multifamily Investors, L.P.</item>
+        <item>ATCX Atlas Technical Consultants, Inc.</item>
+        <item>ATCXW Atlas Technical Consultants, Inc.</item>
+        <item>ATEC Alphatec Holdings, Inc.</item>
+        <item>ATEX Anterix Inc.</item>
+        <item>ATHE Alterity Therapeutics Limited</item>
+        <item>ATHX Athersys, Inc.</item>
+        <item>ATIF ATIF Holdings Limited</item>
+        <item>ATLC Atlanticus Holdings Corporation</item>
+        <item>ATLO Ames National Corporation</item>
+        <item>ATNI ATN International, Inc.</item>
+        <item>ATNX Athenex, Inc.</item>
+        <item>ATOM Atomera Incorporated</item>
+        <item>ATOS Atossa Therapeutics, Inc.</item>
+        <item>ATRA Atara Biotherapeutics, Inc.</item>
+        <item>ATRC AtriCure, Inc.</item>
+        <item>ATRI Atrion Corporation</item>
+        <item>ATRO Astronics Corporation</item>
+        <item>ATRS Antares Pharma, Inc.</item>
+        <item>ATSG Air Transport Services Group, Inc</item>
+        <item>ATVI Activision Blizzard, Inc</item>
+        <item>ATXI Avenue Therapeutics, Inc.</item>
+        <item>AUB Atlantic Union Bankshares Corporation</item>
+        <item>AUBN Auburn National Bancorporation, Inc.</item>
+        <item>AUDC AudioCodes Ltd.</item>
+        <item>AUPH Aurinia Pharmaceuticals Inc</item>
+        <item>AUTL Autolus Therapeutics plc</item>
+        <item>AUTO AutoWeb, Inc.</item>
+        <item>AVAV AeroVironment, Inc.</item>
+        <item>AVCO Avalon GloboCare Corp.</item>
+        <item>AVCT American Virtual Cloud Technologies, Inc. </item>
+        <item>AVCTW American Virtual Cloud Technologies, Inc. </item>
+        <item>AVDL Avadel Pharmaceuticals plc</item>
+        <item>AVEO AVEO Pharmaceuticals, Inc.</item>
+        <item>AVGO Broadcom Inc.</item>
+        <item>AVGOP Broadcom Inc.</item>
+        <item>AVGR Avinger, Inc.</item>
+        <item>AVID Avid Technology, Inc.</item>
+        <item>AVNW Aviat Networks, Inc.</item>
+        <item>AVRO AVROBIO, Inc.</item>
+        <item>AVT Avnet, Inc.</item>
+        <item>AVXL Anavex Life Sciences Corp.</item>
+        <item>AWRE Aware, Inc.</item>
+        <item>AXAS Abraxas Petroleum Corporation</item>
+        <item>AXDX Accelerate Diagnostics, Inc.</item>
+        <item>AXGN Axogen, Inc.</item>
+        <item>AXGT Axovant Gene Therapies Ltd.</item>
+        <item>AXLA Axcella Health Inc.</item>
+        <item>AXNX Axonics Modulation Technologies, Inc.</item>
+        <item>AXSM Axsome Therapeutics, Inc.</item>
+        <item>AXTI AXT Inc</item>
+        <item>AY Atlantica Yield plc</item>
+        <item>AYTU Aytu BioScience, Inc.</item>
+        <item>AZPN Aspen Technology, Inc.</item>
+        <item>AZRX AzurRx BioPharma, Inc.</item>
+        <item>BAND Bandwidth Inc.</item>
+        <item>BANF BancFirst Corporation</item>
+        <item>BANFP BancFirst Corporation</item>
+        <item>BANR Banner Corporation</item>
+        <item>BANX StoneCastle Financial Corp</item>
+        <item>BASI Bioanalytical Systems, Inc.</item>
+        <item>BATRA Liberty Media Corporation</item>
+        <item>BATRK Liberty Media Corporation</item>
+        <item>BBBY Bed Bath &amp; Beyond Inc.</item>
+        <item>BBCP Concrete Pumping Holdings, Inc. </item>
+        <item>BBGI Beasley Broadcast Group, Inc.</item>
+        <item>BBI Brickell Biotech, Inc.</item>
+        <item>BBIO BridgeBio Pharma, Inc.</item>
+        <item>BBQ BBQ Holdings, Inc. </item>
+        <item>BBSI Barrett Business Services, Inc.</item>
+        <item>BCBP BCB Bancorp, Inc. (NJ)</item>
+        <item>BCDA BioCardia, Inc.</item>
+        <item>BCDAW BioCardia, Inc.</item>
+        <item>BCEL Atreca, Inc.</item>
+        <item>BCLI Brainstorm Cell Therapeutics Inc.</item>
+        <item>BCML BayCom Corp</item>
+        <item>BCOM B Communications Ltd.</item>
+        <item>BCOR Blucora, Inc.</item>
+        <item>BCOV Brightcove Inc.</item>
+        <item>BCOW 1895 Bancorp of Wisconsin, Inc.</item>
+        <item>BCPC Balchem Corporation</item>
+        <item>BCRX BioCryst Pharmaceuticals, Inc.</item>
+        <item>BCTF Bancorp 34, Inc.</item>
+        <item>BCYC Bicycle Therapeutics plc</item>
+        <item>BDGE Bridge Bancorp, Inc.</item>
+        <item>BDSI BioDelivery Sciences International, Inc.</item>
+        <item>BDTX Black Diamond Therapeutics, Inc.</item>
+        <item>BEAM Beam Therapeutics Inc.</item>
+        <item>BEAT BioTelemetry, Inc.</item>
+        <item>BECN Beacon Roofing Supply, Inc.</item>
+        <item>BELFA Bel Fuse Inc.</item>
+        <item>BELFB Bel Fuse Inc.</item>
+        <item>BFC Bank First Corporation</item>
+        <item>BFIN BankFinancial Corporation</item>
+        <item>BFRA Biofrontera AG</item>
+        <item>BFST Business First Bancshares, Inc.</item>
+        <item>BFYT Benefytt Technologies, Inc.</item>
+        <item>BGCP BGC Partners, Inc.</item>
+        <item>BGFV Big 5 Sporting Goods Corporation</item>
+        <item>BGNE BeiGene, Ltd.</item>
+        <item>BHAT Blue Hat Interactive Entertainment Technology</item>
+        <item>BHF Brighthouse Financial, Inc.</item>
+        <item>BHFAL Brighthouse Financial, Inc.</item>
+        <item>BHFAP Brighthouse Financial, Inc.</item>
+        <item>BHTG BioHiTech Global, Inc.</item>
+        <item>BIDU Baidu, Inc.</item>
+        <item>BIIB Biogen Inc.</item>
+        <item>BILI Bilibili Inc.</item>
+        <item>BIMI BOQI International Medical Inc.</item>
+        <item>BIOC Biocept, Inc.</item>
+        <item>BIOL Biolase, Inc.</item>
+        <item>BJRI BJ\'s Restaurants, Inc.</item>
+        <item>BKCC BlackRock Capital Investment Corporation</item>
+        <item>BKEP Blueknight Energy Partners L.P., L.L.C.</item>
+        <item>BKEPP Blueknight Energy Partners L.P., L.L.C.</item>
+        <item>BKNG Booking Holdings Inc.</item>
+        <item>BKSC Bank of South Carolina Corp.</item>
+        <item>BKYI BI</item>
+        <item>BL BlackLine, Inc.</item>
+        <item>BLBD Blue Bird Corporation</item>
+        <item>BLCM Bellicum Pharmaceuticals, Inc.</item>
+        <item>BLDP Ballard Power Systems, Inc.</item>
+        <item>BLDR Builders FirstSource, Inc.</item>
+        <item>BLFS BioLife Solutions, Inc.</item>
+        <item>BLIN Bridgeline Digital, Inc.</item>
+        <item>BLKB Blackbaud, Inc.</item>
+        <item>BLMN Bloomin\' Brands, Inc.</item>
+        <item>BLNK Blink Charging Co.</item>
+        <item>BLNKW Blink Charging Co.</item>
+        <item>BLPH Bellerophon Therapeutics, Inc.</item>
+        <item>BLRX BioLineRx Ltd.</item>
+        <item>BLU BELLUS Health Inc.</item>
+        <item>BLUE bluebird bio, Inc.</item>
+        <item>BMCH BMC Stock Holdings, Inc.</item>
+        <item>BMLP Bank Of Montreal</item>
+        <item>BMRA Biomerica, Inc.</item>
+        <item>BMRC Bank of Marin Bancorp</item>
+        <item>BMRN BioMarin Pharmaceutical Inc.</item>
+        <item>BMTC Bryn Mawr Bank Corporation</item>
+        <item>BNFT Benefitfocus, Inc.</item>
+        <item>BNGO Bionano Genomics, Inc.</item>
+        <item>BNGOW Bionano Genomics, Inc.</item>
+        <item>BNSO Bonso Electronics International, Inc.</item>
+        <item>BNTC Benitec Biopharma Inc.</item>
+        <item>BNTX BioNTech SE</item>
+        <item>BOCH Bank of Commerce Holdings (CA)</item>
+        <item>BOKF BOK Financial Corporation</item>
+        <item>BOKFL BOK Financial Corporation</item>
+        <item>BOMN Boston Omaha Corporation</item>
+        <item>BOOM DMC Global Inc.</item>
+        <item>BOSC B.O.S. Better Online Solutions</item>
+        <item>BOTJ Bank of the James Financial Group, Inc.</item>
+        <item>BOXL Boxlight Corporation</item>
+        <item>BPFH Boston Private Financial Holdings, Inc.</item>
+        <item>BPMC Blueprint Medicines Corporation</item>
+        <item>BPOP Popular, Inc.</item>
+        <item>BPOPM Popular, Inc.</item>
+        <item>BPOPN Popular, Inc.</item>
+        <item>BPRN The Bank of Princeton</item>
+        <item>BPTH Bi</item>
+        <item>BPY Brookfield Property Partners L.P.</item>
+        <item>BPYPN Brookfield Property Partners L.P.</item>
+        <item>BPYPO Brookfield Property Partners L.P.</item>
+        <item>BPYPP Brookfield Property Partners L.P.</item>
+        <item>BPYU Brookfield Property REIT Inc.</item>
+        <item>BPYUP Brookfield Property REIT Inc.</item>
+        <item>BREW Craft Brew Alliance, Inc.</item>
+        <item>BRID Bridgford Foods Corporation</item>
+        <item>BRKL Brookline Bancorp, Inc.</item>
+        <item>BRKR Bruker Corporation</item>
+        <item>BRKS Brooks Automation, Inc.</item>
+        <item>BROG Brooge Energy Limited </item>
+        <item>BROGW Brooge Energy Limited </item>
+        <item>BRP BRP Group, Inc.</item>
+        <item>BRPA Big Rock Partners Acquisition Corp.</item>
+        <item>BRPAR Big Rock Partners Acquisition Corp.</item>
+        <item>BRPAU Big Rock Partners Acquisition Corp.</item>
+        <item>BRPAW Big Rock Partners Acquisition Corp.</item>
+        <item>BRQS Borqs Technologies, Inc. </item>
+        <item>BRY Berry Corporation (bry)</item>
+        <item>BSBK Bogota Financial Corp.</item>
+        <item>BSET Bassett Furniture Industries, Incorporated</item>
+        <item>BSGM BioSig Technologies, Inc.</item>
+        <item>BSQR BSQUARE Corporation</item>
+        <item>BSRR Sierra Bancorp</item>
+        <item>BSTC BioSpecifics Technologies Corp</item>
+        <item>BSVN Bank7 Corp.</item>
+        <item>BTAI BioXcel Therapeutics, Inc.</item>
+        <item>BUSE First Busey Corporation</item>
+        <item>BVSN BroadVision, Inc.</item>
+        <item>BVXV BiondVax Pharmaceuticals Ltd.</item>
+        <item>BVXVW BiondVax Pharmaceuticals Ltd.</item>
+        <item>BWAY Brainsway Ltd.</item>
+        <item>BWB Bridgewater Bancshares, Inc.</item>
+        <item>BWEN Broadwind Energy, Inc.</item>
+        <item>BWFG Bankwell Financial Group, Inc.</item>
+        <item>BWMX Betterware de Mexico, S.A.P.I de C.V.</item>
+        <item>BXRX Baudax Bio, Inc.</item>
+        <item>BYFC Broadway Financial Corporation</item>
+        <item>BYND Beyond Meat, Inc.</item>
+        <item>BYSI BeyondSpring, Inc.</item>
+        <item>BZUN Baozun Inc.</item>
+        <item>CAAS China Automotive Systems, Inc.</item>
+        <item>CABA Cabaletta Bio, Inc.</item>
+        <item>CAC Camden National Corporation</item>
+        <item>CACC Credit Acceptance Corporation</item>
+        <item>CAKE The Cheesecake Factory Incorporated</item>
+        <item>CALA Calithera Biosciences, Inc.</item>
+        <item>CALB California BanCorp</item>
+        <item>CALM Ca</item>
+        <item>CAMP CalAmp Corp.</item>
+        <item>CAMT Camtek Ltd.</item>
+        <item>CAN Canaan Inc.</item>
+        <item>CAPR Capricor Therapeutics, Inc.</item>
+        <item>CAR Avis Budget Group, Inc.</item>
+        <item>CARA Cara Therapeutics, Inc.</item>
+        <item>CARE Carter Bank &amp; Trust</item>
+        <item>CARG CarGurus, Inc.</item>
+        <item>CARO Carolina Financial Corporation</item>
+        <item>CARV Carver Bancorp, Inc.</item>
+        <item>CASA Casa Systems, Inc.</item>
+        <item>CASH Meta Financial Group, Inc.</item>
+        <item>CASI CASI Pharmaceuticals, Inc.</item>
+        <item>CASS Cass Information Systems, Inc</item>
+        <item>CASY Caseys General Stores, Inc.</item>
+        <item>CATB Catabasis Pharmaceuticals, Inc.</item>
+        <item>CATC Cambridge Bancorp</item>
+        <item>CATM Cardtronics plc</item>
+        <item>CATS Catasys, Inc.</item>
+        <item>CATY Cathay General Bancorp</item>
+        <item>CBAN Colony Bankcorp, Inc.</item>
+        <item>CBAT CBAK Energy Technology, Inc.</item>
+        <item>CBAY CymaBay Therapeutics Inc.</item>
+        <item>CBFV CB Financial Services, Inc.</item>
+        <item>CBIO Catalyst Biosciences, Inc. </item>
+        <item>CBLI Cleveland BioLabs, Inc.</item>
+        <item>CBMB CBM Bancorp, Inc.</item>
+        <item>CBMG Cellular Biomedicine Group, Inc.</item>
+        <item>CBNK Capital Bancorp, Inc.</item>
+        <item>CBPO China Biologic Products Holdings, Inc.</item>
+        <item>CBRL Cracker Barrel Old Country Store, Inc.</item>
+        <item>CBSH Commerce Bancshares, Inc.</item>
+        <item>CBSHP Commerce Bancshares, Inc.</item>
+        <item>CBTX CBTX, Inc.</item>
+        <item>CCAP Crescent Capital BDC, Inc.</item>
+        <item>CCB Coastal Financial Corporation</item>
+        <item>CCBG Capital City Bank Group</item>
+        <item>CCCL China Ceramics Co., Ltd.</item>
+        <item>CCD Calamos Dynamic Convertible &amp; Income Fund</item>
+        <item>CCLP CSI Compressco LP</item>
+        <item>CCMP Cabot Microelectronics Corporation</item>
+        <item>CCNE CNB Financial Corporation</item>
+        <item>CCOI Cogent Communications Holdings, Inc.</item>
+        <item>CCRC China Customer Relations Centers, Inc.</item>
+        <item>CCRN Cross Country Healthcare, Inc.</item>
+        <item>CCXI ChemoCentryx, Inc.</item>
+        <item>CDEV Centennial Resource Development, Inc.</item>
+        <item>CDK CDK Global, Inc.</item>
+        <item>CDLX Cardlytics, Inc.</item>
+        <item>CDMO Avid Bioservices, Inc.</item>
+        <item>CDMOP Avid Bioservices, Inc.</item>
+        <item>CDNA CareDx, Inc.</item>
+        <item>CDNS Cadence Design Systems, Inc.</item>
+        <item>CDTX Cidara Therapeutics, Inc.</item>
+        <item>CDW CDW Corporation</item>
+        <item>CDXC ChromaDex Corporation</item>
+        <item>CDXS Codexis, Inc.</item>
+        <item>CDZI Cadiz, Inc.</item>
+        <item>CECE CECO Environmental Corp.</item>
+        <item>CELC Celcuity Inc.</item>
+        <item>CELH Celsius Holdings, Inc.</item>
+        <item>CEMI Chembio Diagnostics, Inc.</item>
+        <item>CENT Central Garden &amp; Pet Company</item>
+        <item>CENTA Central Garden &amp; Pet Company</item>
+        <item>CENX Century Aluminum Company</item>
+        <item>CERC Cerecor Inc.</item>
+        <item>CERN Cerner Corporation</item>
+        <item>CERS Cerus Corporation</item>
+        <item>CETV Central European Media Enterprises Ltd.</item>
+        <item>CETX Cemtrex Inc.</item>
+        <item>CETXP Cemtrex Inc.</item>
+        <item>CETXW Cemtrex Inc.</item>
+        <item>CEVA CEVA, Inc.</item>
+        <item>CFB CrossFirst Bankshares, Inc.</item>
+        <item>CFBI Community First Bancshares, Inc.</item>
+        <item>CFBK Central Federal Corporation</item>
+        <item>CFFA CF Finance Acquisition Corp.</item>
+        <item>CFFAU CF Finance Acquisition Corp.</item>
+        <item>CFFAW CF Finance Acquisition Corp.</item>
+        <item>CFFI C&amp;F Financial Corporation</item>
+        <item>CFFN Capitol Federal Financial, Inc.</item>
+        <item>CFMS Conformis, Inc.</item>
+        <item>CFRX ContraFect Corporation</item>
+        <item>CG The Carlyle Group Inc.</item>
+        <item>CGBD TCG BDC, Inc.</item>
+        <item>CGEN Compugen Ltd.</item>
+        <item>CGIX Cancer Genetics, Inc.</item>
+        <item>CGNX Cognex Corporation</item>
+        <item>CGO Calamos Global Total Return Fund</item>
+        <item>CHCI Comstock Holding Companies, Inc.</item>
+        <item>CHCO City Holding Company</item>
+        <item>CHDN Churchill Downs, Incorporated</item>
+        <item>CHEF The Chefs\' Warehouse, Inc.</item>
+        <item>CHEK Chec</item>
+        <item>CHEKZ Chec</item>
+        <item>CHFS CHF Solutions, Inc.</item>
+        <item>CHI Calamos Convertible Opportunities and Income Fund</item>
+        <item>CHKP Check Point Software Technologies Ltd.</item>
+        <item>CHMA Chiasma, Inc.</item>
+        <item>CHMG Chemung Financial Corp</item>
+        <item>CHNG Change Healthcare Inc.</item>
+        <item>CHNGU Change Healthcare Inc.</item>
+        <item>CHNR China Natural Resources, Inc.</item>
+        <item>CHPM CHP Merger Corp.</item>
+        <item>CHPMU CHP Merger Corp.</item>
+        <item>CHPMW CHP Merger Corp.</item>
+        <item>CHRS Coherus BioSciences, Inc.</item>
+        <item>CHRW C.H. Robinson Worldwide, Inc.</item>
+        <item>CHSCL CHS Inc</item>
+        <item>CHSCM CHS Inc</item>
+        <item>CHSCN CHS Inc</item>
+        <item>CHSCO CHS Inc</item>
+        <item>CHSCP CHS Inc</item>
+        <item>CHTR Charter Communications, Inc.</item>
+        <item>CHUY Chuy\'s Holdings, Inc.</item>
+        <item>CHW Calamos Global Dynamic Income Fund</item>
+        <item>CHY Calamos Convertible and High Income Fund</item>
+        <item>CIDM Cinedigm Corp</item>
+        <item>CIFS China Internet Nationwide Financial Services Inc.</item>
+        <item>CIGI Colliers International Group Inc. </item>
+        <item>CIH China Index Holdings Limited</item>
+        <item>CIIC CIIG Merger Corp.</item>
+        <item>CIICU CIIG Merger Corp.</item>
+        <item>CIICW CIIG Merger Corp.</item>
+        <item>CINF Cincinnati Financial Corporation</item>
+        <item>CIVB Civista Bancshares, Inc. </item>
+        <item>CIZN Citizens Holding Company</item>
+        <item>CJJD China J</item>
+        <item>CKPT Checkpoint Therapeutics, Inc.</item>
+        <item>CLAR Clarus Corporation</item>
+        <item>CLBK Columbia Financial, Inc.</item>
+        <item>CLBS Caladrius Biosciences, Inc.</item>
+        <item>CLCT Collectors Universe, Inc.</item>
+        <item>CLDB Cortland Bancorp</item>
+        <item>CLDX Celldex Therapeutics, Inc.</item>
+        <item>CLFD Clearfield, Inc.</item>
+        <item>CLGN CollPlant Biotechnologies Ltd.</item>
+        <item>CLIR ClearSign Technologies Corporation</item>
+        <item>CLLS Cellectis S.A.</item>
+        <item>CLMT Calumet Specialty Products Partners, L.P.</item>
+        <item>CLNE Clean Energy Fuels Corp.</item>
+        <item>CLPS CLPS Incorporation</item>
+        <item>CLPT ClearPoint Neuro Inc.</item>
+        <item>CLRB Cellectar Biosciences, Inc.</item>
+        <item>CLRBZ Cellectar Biosciences, Inc.</item>
+        <item>CLRO ClearOne, Inc.</item>
+        <item>CLSD Clearside Biomedical, Inc.</item>
+        <item>CLSK CleanSpark, Inc.</item>
+        <item>CLSN Celsion Corporation</item>
+        <item>CLUB Town Sports International Holdings, Inc.</item>
+        <item>CLVS Clovis Oncology, Inc.</item>
+        <item>CLWT Euro Tech Holdings Company Limited</item>
+        <item>CLXT Calyxt, Inc.</item>
+        <item>CMBM Cambium Networks Corporation</item>
+        <item>CMCO Columbus McKinnon Corporation</item>
+        <item>CMCSA Comcast Corporation</item>
+        <item>CMCT CIM Commercial Trust Corporation</item>
+        <item>CMCTP CIM Commercial Trust Corporation</item>
+        <item>CME CME Group Inc.</item>
+        <item>CMFNL Investcorp Credit Management BDC, Inc.</item>
+        <item>CMLS Cumulus Media Inc.</item>
+        <item>CMPR Cimpress plc</item>
+        <item>CMRX Chimerix, Inc.</item>
+        <item>CMTL Comtech Telecommunications Corp.</item>
+        <item>CNAT Conatus Pharmaceuticals Inc.</item>
+        <item>CNBKA Century Bancorp, Inc.</item>
+        <item>CNCE Concert Pharmaceuticals, Inc.</item>
+        <item>CNDT Conduent Incorporated</item>
+        <item>CNET ChinaNet Online Holdings, Inc.</item>
+        <item>CNFR Conifer Holdings, Inc.</item>
+        <item>CNFRL Conifer Holdings, Inc.</item>
+        <item>CNNB Cincinnati Bancorp, Inc.</item>
+        <item>CNOB ConnectOne Bancorp, Inc.</item>
+        <item>CNSL Consolidated Communications Holdings, Inc.</item>
+        <item>CNSP CNS Pharmaceuticals, Inc.</item>
+        <item>CNST Constellation Pharmaceuticals, Inc.</item>
+        <item>CNTG Centogene N.V.</item>
+        <item>CNTY Century Casinos, Inc.</item>
+        <item>CNXN PC Connection, Inc.</item>
+        <item>COCP Cocrystal Pharma, Inc.</item>
+        <item>CODA Coda Octopus Group, Inc.</item>
+        <item>CODX C</item>
+        <item>COFS ChoiceOne Financial Services, Inc.</item>
+        <item>COHR Coherent, Inc.</item>
+        <item>COHU Cohu, Inc.</item>
+        <item>COKE Coc</item>
+        <item>COLB Columbia Banking System, Inc.</item>
+        <item>COLL Collegium Pharmaceutical, Inc.</item>
+        <item>COLM Columbia Sportswear Company</item>
+        <item>COMM CommScope Holding Company, Inc.</item>
+        <item>CONE CyrusOne Inc</item>
+        <item>CONN Conn\'s, Inc.</item>
+        <item>COOP Mr. Cooper Group Inc.</item>
+        <item>CORE Cor</item>
+        <item>CORT Corcept Therapeutics Incorporated</item>
+        <item>CORV Correvio Pharma Corp.</item>
+        <item>COST Costco Wholesale Corporation</item>
+        <item>COUP Coupa Software Incorporated</item>
+        <item>COWN Cowen Inc.</item>
+        <item>COWNL Cowen Inc.</item>
+        <item>COWNZ Cowen Inc.</item>
+        <item>CPAA Conyers Park II Acquisition Corp.</item>
+        <item>CPAAU Conyers Park II Acquisition Corp.</item>
+        <item>CPAAW Conyers Park II Acquisition Corp.</item>
+        <item>CPAH CounterPath Corporation</item>
+        <item>CPHC Canterbury Park Holding Corporation</item>
+        <item>CPIX Cumberland Pharmaceuticals Inc.</item>
+        <item>CPLP Capital Product Partners L.P.</item>
+        <item>CPRT Copart, Inc.</item>
+        <item>CPRX Catalyst Pharmaceuticals, Inc.</item>
+        <item>CPSH CPS Technologies Corp.</item>
+        <item>CPSI Computer Programs and Systems, Inc.</item>
+        <item>CPSS Consumer Portfolio Services, Inc.</item>
+        <item>CPST Capstone Turbine Corporation</item>
+        <item>CPTA Capitala Finance Corp.</item>
+        <item>CPTAG Capitala Finance Corp.</item>
+        <item>CPTAL Capitala Finance Corp.</item>
+        <item>CPZ Calamos Long/Short Equity &amp; Dynamic Income Trust</item>
+        <item>CRAI CRA International,Inc.</item>
+        <item>CRBP Corbus Pharmaceuticals Holdings, Inc.</item>
+        <item>CREE Cree, Inc.</item>
+        <item>CREG China Recycling Energy Corporation</item>
+        <item>CRESY Cresud S.A.C.I.F. y A.</item>
+        <item>CREX Creative Realities, Inc.</item>
+        <item>CREXW Creative Realities, Inc.</item>
+        <item>CRIS Curis, Inc.</item>
+        <item>CRMT America\'s Ca</item>
+        <item>CRNC Cerence Inc.</item>
+        <item>CRNT Ceragon Networks Ltd.</item>
+        <item>CRNX Crinetics Pharmaceuticals, Inc.</item>
+        <item>CRON Cronos Group Inc.</item>
+        <item>CROX Crocs, Inc.</item>
+        <item>CRSA Crescent Acquisition Corp</item>
+        <item>CRSAU Crescent Acquisition Corp</item>
+        <item>CRSAW Crescent Acquisition Corp</item>
+        <item>CRSP CRISPR Therapeutics AG</item>
+        <item>CRTO Criteo S.A.</item>
+        <item>CRTX Cortexyme, Inc.</item>
+        <item>CRUS Cirrus Logic, Inc.</item>
+        <item>CRVL CorVel Corp.</item>
+        <item>CRVS Corvus Pharmaceuticals, Inc.</item>
+        <item>CRWD CrowdStrike Holdings, Inc.</item>
+        <item>CRWS Crown Crafts, Inc.</item>
+        <item>CSBR Champions Oncology, Inc.</item>
+        <item>CSCO Cisco Systems, Inc.</item>
+        <item>CSFL CenterState Bank Corporation</item>
+        <item>CSGP CoStar Group, Inc.</item>
+        <item>CSGS CSG Systems International, Inc.</item>
+        <item>CSII Cardiovascular Systems, Inc.</item>
+        <item>CSIQ Canadian Solar Inc.</item>
+        <item>CSOD Cornerstone OnDemand, Inc.</item>
+        <item>CSPI CSP Inc.</item>
+        <item>CSQ Calamos Strategic Total Return Fund</item>
+        <item>CSSE Chicken Soup for the Soul Entertainment, Inc.</item>
+        <item>CSSEP Chicken Soup for the Soul Entertainment, Inc.</item>
+        <item>CSTE Caesarstone Ltd.</item>
+        <item>CSTL Castle Biosciences, Inc.</item>
+        <item>CSTR CapStar Financial Holdings, Inc.</item>
+        <item>CSWC Capital Southwest Corporation</item>
+        <item>CSWCL Capital Southwest Corporation</item>
+        <item>CSWI CSW Industrials, Inc.</item>
+        <item>CSX CSX Corporation</item>
+        <item>CTAS Cintas Corporation</item>
+        <item>CTBI Community Trust Bancorp, Inc.</item>
+        <item>CTG Computer Task Group, Incorporated</item>
+        <item>CTHR Charles &amp; Colvard Ltd.</item>
+        <item>CTIB Yunhong CTI Ltd.</item>
+        <item>CTIC CTI BioPharma Corp.</item>
+        <item>CTMX CytomX Therapeutics, Inc.</item>
+        <item>CTRC Centric Brands Inc.</item>
+        <item>CTRE CareTrust REIT, Inc.</item>
+        <item>CTRM Castor Maritime Inc.</item>
+        <item>CTRN Citi Trends, Inc.</item>
+        <item>CTSH Cognizant Technology Solutions Corporation</item>
+        <item>CTSO Cytosorbents Corporation</item>
+        <item>CTXR Citius Pharmaceuticals, Inc.</item>
+        <item>CTXRW Citius Pharmaceuticals, Inc.</item>
+        <item>CTXS Citrix Systems, Inc.</item>
+        <item>CUBA The Herzfeld Caribbean Basin Fund, Inc.</item>
+        <item>CUE Cue Biopharma, Inc.</item>
+        <item>CUI CUI Global, Inc.</item>
+        <item>CUTR Cutera, Inc.</item>
+        <item>CVBF CVB Financial Corporation</item>
+        <item>CVCO Cavco Industries, Inc.</item>
+        <item>CVCY Central Valley Community Bancorp</item>
+        <item>CVET Covetrus, Inc.</item>
+        <item>CVGI Commercial Vehicle Group, Inc.</item>
+        <item>CVGW Calavo Growers, Inc.</item>
+        <item>CVLT Commvault Systems, Inc.</item>
+        <item>CVLY Codorus Valley Bancorp, Inc</item>
+        <item>CVTI Covenant Transportation Group, Inc.</item>
+        <item>CVV CVD Equipment Corporation</item>
+        <item>CWBC Community West Bancshares</item>
+        <item>CWBR CohBar, Inc.</item>
+        <item>CWCO Consolidated Water Co. Ltd.</item>
+        <item>CWST Casella Waste Systems, Inc.</item>
+        <item>CXDC China XD Plastics Company Limited</item>
+        <item>CXSE WisdomTree China e</item>
+        <item>CY Cypress Semiconductor Corporation</item>
+        <item>CYAD Celyad SA</item>
+        <item>CYAN Cyanotech Corporation</item>
+        <item>CYBE CyberOptics Corporation</item>
+        <item>CYBR CyberArk Software Ltd.</item>
+        <item>CYCC Cyclacel Pharmaceuticals, Inc.</item>
+        <item>CYCCP Cyclacel Pharmaceuticals, Inc.</item>
+        <item>CYCN Cyclerion Therapeutics, Inc.</item>
+        <item>CYOU Changyou.com Limited</item>
+        <item>CYRN CYREN Ltd.</item>
+        <item>CYRX CryoPort, Inc.</item>
+        <item>CYRXW CryoPort, Inc.</item>
+        <item>CYTK Cytokinetics, Incorporated</item>
+        <item>CZNC Citizens &amp; Northern Corp</item>
+        <item>CZR Caesars Entertainment Corporation</item>
+        <item>CZWI Citizens Community Bancorp, Inc.</item>
+        <item>DAIO Data I/O Corporation</item>
+        <item>DAKT Daktronics, Inc.</item>
+        <item>DARE Dare Bioscience, Inc.</item>
+        <item>DBVT DBV Technologies S.A.</item>
+        <item>DBX Dropbox, Inc.</item>
+        <item>DCAR DropCar, Inc.</item>
+        <item>DCOM Dime Community Bancshares, Inc.</item>
+        <item>DCOMP Dime Community Bancshares, Inc.</item>
+        <item>DCPH Deciphera Pharmaceuticals, Inc.</item>
+        <item>DDOG Datadog, Inc.</item>
+        <item>DEAC Diamond Eagle Acquisition Corp.</item>
+        <item>DEACU Diamond Eagle Acquisition Corp.</item>
+        <item>DEACW Diamond Eagle Acquisition Corp.</item>
+        <item>DENN Denny\'s Corporation</item>
+        <item>DFFN Diffusion Pharmaceuticals Inc.</item>
+        <item>DFPHU DFP Healthcare Acquisitions Corp.</item>
+        <item>DGICA Donegal Group, Inc.</item>
+        <item>DGICB Donegal Group, Inc.</item>
+        <item>DGII Digi International Inc.</item>
+        <item>DGLD Credit Suisse AG</item>
+        <item>DGLY Digital Ally, Inc.</item>
+        <item>DHC Diversified Healthcare Trust </item>
+        <item>DHCNI Diversified Healthcare Trust </item>
+        <item>DHCNL Diversified Healthcare Trust </item>
+        <item>DHIL Diamond Hill Investment Group, Inc.</item>
+        <item>DIOD Diodes Incorporated</item>
+        <item>DISCA Discovery, Inc.</item>
+        <item>DISCB Discovery, Inc.</item>
+        <item>DISCK Discovery, Inc.</item>
+        <item>DISH DISH Network Corporation</item>
+        <item>DJCO Daily Journal Corp. (S.C.)</item>
+        <item>DLHC DLH Holdings Corp.</item>
+        <item>DLPN Dolphin Entertainment, Inc.</item>
+        <item>DLPNW Dolphin Entertainment, Inc.</item>
+        <item>DLTH Duluth Holdings Inc.</item>
+        <item>DLTR Dollar Tree, Inc.</item>
+        <item>DMAC DiaMedica Therapeutics Inc.</item>
+        <item>DMLP Dorchester Minerals, L.P.</item>
+        <item>DMPI DelMar Pharmaceuticals, Inc.</item>
+        <item>DMRC Digimarc Corporation</item>
+        <item>DMTK DermTech, Inc.</item>
+        <item>DNJR Golden Bull Limited</item>
+        <item>DNKN Dunkin\' Brands Group, Inc.</item>
+        <item>DNLI Denali Therapeutics Inc.</item>
+        <item>DOCU DocuSign, Inc.</item>
+        <item>DOGZ Dogness (International) Corporation</item>
+        <item>DOMO Domo, Inc.</item>
+        <item>DOOO BRP Inc.</item>
+        <item>DORM Dorman Products, Inc.</item>
+        <item>DOX Amdocs Limited</item>
+        <item>DOYU DouYu International Holdings Limited</item>
+        <item>DPHC DiamondPeak Holdings Corp.</item>
+        <item>DPHCU DiamondPeak Holdings Corp.</item>
+        <item>DPHCW DiamondPeak Holdings Corp.</item>
+        <item>DRAD Digirad Corporation</item>
+        <item>DRADP Digirad Corporation</item>
+        <item>DRIO DarioHealth Corp.</item>
+        <item>DRIOW DarioHealth Corp.</item>
+        <item>DRNA Dicerna Pharmaceuticals, Inc.</item>
+        <item>DRRX DURECT Corporation</item>
+        <item>DRTT DIRTT Environmental Solutions Ltd.</item>
+        <item>DSGX The Descartes Systems Group Inc.</item>
+        <item>DSKE Daseke, Inc.</item>
+        <item>DSKEW Daseke, Inc.</item>
+        <item>DSLV Credit Suisse AG</item>
+        <item>DSPG DSP Group, Inc.</item>
+        <item>DSWL Deswell Industries, Inc.</item>
+        <item>DTEA DAVIDsTEA Inc.</item>
+        <item>DTIL Precision BioSciences, Inc.</item>
+        <item>DTSS Datasea Inc.</item>
+        <item>DUO Fangdd Network Group Ltd.</item>
+        <item>DUOT Duos Technologies Group, Inc.</item>
+        <item>DVAX Dynavax Technologies Corporation</item>
+        <item>DWMC AdvisorShares Dorsey Wright Micr</item>
+        <item>DWSN Dawson Geophysical Company</item>
+        <item>DXCM DexCom, Inc.</item>
+        <item>DXLG Destination XL Group, Inc.</item>
+        <item>DXPE DXP Enterprises, Inc.</item>
+        <item>DXYN The Dixie Group, Inc.</item>
+        <item>DYAI Dyadic International, Inc.</item>
+        <item>DYNT Dynatronics Corporation</item>
+        <item>DZSI DASAN Zhone Solutions, Inc.</item>
+        <item>EA Electronic Arts Inc.</item>
+        <item>EARS Auris Medical Holding Ltd.</item>
+        <item>EAST Eastside Distilling, Inc.</item>
+        <item>EBAY eBay Inc.</item>
+        <item>EBAYL eBay Inc.</item>
+        <item>EBIX Ebix, Inc.</item>
+        <item>EBIZ Global X </item>
+        <item>EBMT Eagle Bancorp Montana, Inc.</item>
+        <item>EBSB Meridian Bancorp, Inc.</item>
+        <item>EBTC Enterprise Bancorp Inc</item>
+        <item>ECHO Echo Global Logistics, Inc.</item>
+        <item>ECOL US Ecology, Inc.</item>
+        <item>ECOLW US Ecology, Inc.</item>
+        <item>ECOR electroCore, Inc.</item>
+        <item>ECPG Encore Capital Group Inc</item>
+        <item>EDAP EDAP TMS S.A.</item>
+        <item>EDIT Editas Medicine, Inc.</item>
+        <item>EDNT Edison Nation, Inc.</item>
+        <item>EDRY EuroDry Ltd.</item>
+        <item>EDSA Edesa Biotech, Inc.</item>
+        <item>EDUC Educational Development Corporation</item>
+        <item>EEFT Euronet Worldwide, Inc.</item>
+        <item>EFOI Energy Focus, Inc.</item>
+        <item>EFSC Enterprise Financial Services Corporation</item>
+        <item>EGAN eGain Corporation</item>
+        <item>EGBN Eagle Bancorp, Inc.</item>
+        <item>EGLE Eagle Bulk Shipping Inc.</item>
+        <item>EGOV NIC Inc.</item>
+        <item>EGRX Eagle Pharmaceuticals, Inc.</item>
+        <item>EH EHang Holdings Limited</item>
+        <item>EHTH eHealth, Inc.</item>
+        <item>EIDX Eidos Therapeutics, Inc.</item>
+        <item>EIGI Endurance International Group Holdings, Inc.</item>
+        <item>EIGR Eiger BioPharmaceuticals, Inc.</item>
+        <item>EKSO Ekso Bionics Holdings, Inc.</item>
+        <item>ELGX Endologix, Inc.</item>
+        <item>ELOX Eloxx Pharmaceuticals, Inc.</item>
+        <item>ELSE Electr</item>
+        <item>ELTK Eltek Ltd.</item>
+        <item>EMCF Emclaire Financial Corp</item>
+        <item>EMKR EMCORE Corporation</item>
+        <item>EML Eastern Company (The)</item>
+        <item>EMMS Emmis Communications Corporation</item>
+        <item>ENDP Endo International plc</item>
+        <item>ENG ENGlobal Corporation</item>
+        <item>ENLV Enlivex Therapeutics Ltd.</item>
+        <item>ENOB Enochian Biosciences, Inc.</item>
+        <item>ENPH Enphase Energy, Inc.</item>
+        <item>ENSG The Ensign Group, Inc.</item>
+        <item>ENT Global Eagle Entertainment Inc.</item>
+        <item>ENTA Enanta Pharmaceuticals, Inc.</item>
+        <item>ENTG Entegris, Inc.</item>
+        <item>ENTX Entera Bio Ltd.</item>
+        <item>ENTXW Entera Bio Ltd.</item>
+        <item>EOLS Evolus, Inc.</item>
+        <item>EPAY Bottomline Technologies, Inc.</item>
+        <item>EPIX ESSA Pharma Inc.</item>
+        <item>EPSN Epsilon Energy Ltd.</item>
+        <item>EPZM Epizyme, Inc.</item>
+        <item>EQ Equillium, Inc.</item>
+        <item>EQBK Equity Bancshares, Inc.</item>
+        <item>EQIX Equinix, Inc.</item>
+        <item>ERI Eldorado Resorts, Inc.</item>
+        <item>ERIC Ericsson</item>
+        <item>ERIE Erie Indemnity Company</item>
+        <item>ERII Energy Recovery, Inc.</item>
+        <item>ERYP Erytech Pharma S.A.</item>
+        <item>ESBK Elmira Savings Bank NY (The)</item>
+        <item>ESCA Escalade, Incorporated</item>
+        <item>ESEA Euroseas Ltd.</item>
+        <item>ESGR Enstar Group Limited</item>
+        <item>ESGRO Enstar Group Limited</item>
+        <item>ESGRP Enstar Group Limited</item>
+        <item>ESLT Elbit Systems Ltd.</item>
+        <item>ESPR Esperion Therapeutics, Inc.</item>
+        <item>ESQ Esquire Financial Holdings, Inc.</item>
+        <item>ESSA ESSA Bancorp, Inc.</item>
+        <item>ESSC East Stone Acquisition Corporation</item>
+        <item>ESSCR East Stone Acquisition Corporation</item>
+        <item>ESSCU East Stone Acquisition Corporation</item>
+        <item>ESSCW East Stone Acquisition Corporation</item>
+        <item>ESTA Establishment Labs Holdings Inc.</item>
+        <item>ESXB Community Bankers Trust Corporation.</item>
+        <item>ETFC E*TRADE Financial Corporation</item>
+        <item>ETNB 89bio, Inc.</item>
+        <item>ETON Eton Pharmaceuticals, Inc.</item>
+        <item>ETSY Etsy, Inc.</item>
+        <item>ETTX Entasis Therapeutics Holdings Inc.</item>
+        <item>EVBG Everbridge, Inc.</item>
+        <item>EVER EverQuote, Inc.</item>
+        <item>EVFM Evofem Biosciences, Inc.</item>
+        <item>EVGBC Eaton Vance NextShares Trust</item>
+        <item>EVGN Evogene Ltd.</item>
+        <item>EVK Eve</item>
+        <item>EVLMC Eaton Vance NextShares Trust II</item>
+        <item>EVLO Evelo Biosciences, Inc.</item>
+        <item>EVOK Evoke Pharma, Inc.</item>
+        <item>EVOL Evolving Systems, Inc.</item>
+        <item>EVOP EVO Payments, Inc.</item>
+        <item>EVSI Envision Solar International, Inc.</item>
+        <item>EVSIW Envision Solar International, Inc.</item>
+        <item>EVSTC Eaton Vance NextShares Trust</item>
+        <item>EWBC East West Bancorp, Inc.</item>
+        <item>EWZS iShares MSCI Brazil Smal</item>
+        <item>EXAS Exact Sciences Corporation</item>
+        <item>EXC Exelon Corporation</item>
+        <item>EXEL Exelixis, Inc.</item>
+        <item>EXFO EXFO Inc</item>
+        <item>EXLS ExlService Holdings, Inc.</item>
+        <item>EXPC Experience Investment Corp.</item>
+        <item>EXPCU Experience Investment Corp.</item>
+        <item>EXPCW Experience Investment Corp.</item>
+        <item>EXPD Expeditors International of Washington, Inc.</item>
+        <item>EXPE Expedia Group, Inc.</item>
+        <item>EXPI eXp World Holdings, Inc.</item>
+        <item>EXPO Exponent, Inc.</item>
+        <item>EXTR Extreme Networks, Inc.</item>
+        <item>EYE National Vision Holdings, Inc.</item>
+        <item>EYEG Eyegate Pharmaceuticals, Inc.</item>
+        <item>EYEGW Eyegate Pharmaceuticals, Inc.</item>
+        <item>EYEN Eyenovia, Inc.</item>
+        <item>EYES Second Sight Medical Products, Inc.</item>
+        <item>EYESW Second Sight Medical Products, Inc.</item>
+        <item>EYPT EyePoint Pharmaceuticals, Inc.</item>
+        <item>EZPW EZCORP, Inc.</item>
+        <item>FAMI Farmmi, INC.</item>
+        <item>FANG Diamondback Energy, Inc.</item>
+        <item>FANH Fanhua Inc.</item>
+        <item>FARM Farmer Brothers Company</item>
+        <item>FARO FARO Technologies, Inc.</item>
+        <item>FAST Fastenal Company</item>
+        <item>FAT FAT Brands Inc.</item>
+        <item>FATE Fate Therapeutics, Inc.</item>
+        <item>FB Facebook, Inc.</item>
+        <item>FBIO Fortress Biotech, Inc.</item>
+        <item>FBIOP Fortress Biotech, Inc.</item>
+        <item>FBIZ First Business Financial Services, Inc.</item>
+        <item>FBMS The First Bancshares, Inc.</item>
+        <item>FBNC First Bancorp</item>
+        <item>FBSS Fauquier Bankshares, Inc.</item>
+        <item>FCAP First Capital, Inc.</item>
+        <item>FCBC First Community Bankshares, Inc.</item>
+        <item>FCBP First Choice Bancorp</item>
+        <item>FCCO First Community Corporation</item>
+        <item>FCCY 1st Constitution Bancorp (NJ)</item>
+        <item>FCEL FuelCell Energy, Inc.</item>
+        <item>FCFS FirstCash, Inc.</item>
+        <item>FCNCA First Citizens BancShares, Inc.</item>
+        <item>FCNCP First Citizens BancShares, Inc.</item>
+        <item>FDBC Fidelity D &amp; D Bancorp, Inc.</item>
+        <item>FDEF First Defiance Financial Corp.</item>
+        <item>FDT First Trust Developed Markets E</item>
+        <item>FDTS First Trust Developed Markets e</item>
+        <item>FDUS Fidus Investment Corporation</item>
+        <item>FDUSG Fidus Investment Corporation</item>
+        <item>FDUSL Fidus Investment Corporation</item>
+        <item>FDUSZ Fidus Investment Corporation</item>
+        <item>FEIM Frequency Electronics, Inc.</item>
+        <item>FELE Franklin Electric Co., Inc.</item>
+        <item>FENC Fennec Pharmaceuticals Inc.</item>
+        <item>FEYE FireEye, Inc.</item>
+        <item>FFBC First Financial Bancorp.</item>
+        <item>FFBW FFBW, Inc.</item>
+        <item>FFHL Fuwei Films (Holdings) Co., Ltd.</item>
+        <item>FFIC Flushing Financial Corporation</item>
+        <item>FFIN First Financial Bankshares, Inc.</item>
+        <item>FFIV F5 Networks, Inc.</item>
+        <item>FFNW First Financial Northwest, Inc.</item>
+        <item>FFWM First Foundation Inc.</item>
+        <item>FGBI First Guaranty Bancshares, Inc.</item>
+        <item>FGEN FibroGen, Inc</item>
+        <item>FHB First Hawaiian, Inc.</item>
+        <item>FIBK First Interstate BancSystem, Inc.</item>
+        <item>FISI Financial Institutions, Inc.</item>
+        <item>FISV Fiserv, Inc.</item>
+        <item>FITB Fifth Third Bancorp</item>
+        <item>FITBI Fifth Third Bancorp</item>
+        <item>FITBO Fifth Third Bancorp</item>
+        <item>FITBP Fifth Third Bancorp</item>
+        <item>FIVE Five Below, Inc.</item>
+        <item>FIVN Five9, Inc.</item>
+        <item>FIXX Homology Medicines, Inc.</item>
+        <item>FIZZ National Beverage Corp.</item>
+        <item>FLDM Fluidigm Corporation</item>
+        <item>FLEX Flex Ltd.</item>
+        <item>FLGT Fulgent Genetics, Inc.</item>
+        <item>FLIC The First of Long Island Corporation</item>
+        <item>FLIR FLIR Systems, Inc.</item>
+        <item>FLL Full House Resorts, Inc.</item>
+        <item>FLMN Falcon Minerals Corporation</item>
+        <item>FLMNW Falcon Minerals Corporation</item>
+        <item>FLNT Fluent, Inc.</item>
+        <item>FLWS </item>
+        <item>FLXN Flexion Therapeutics, Inc.</item>
+        <item>FLXS Flexsteel Industries, Inc.</item>
+        <item>FMAO Farmers &amp; Merchants Bancorp, Inc.</item>
+        <item>FMBH First Mid Bancshares, Inc.</item>
+        <item>FMBI First Midwest Bancorp, Inc.</item>
+        <item>FMCI Forum Merger II Corporation</item>
+        <item>FMCIU Forum Merger II Corporation</item>
+        <item>FMCIW Forum Merger II Corporation</item>
+        <item>FMNB Farmers National Banc Corp.</item>
+        <item>FNCB FNCB Bancorp Inc.</item>
+        <item>FNHC FedNat Holding Company</item>
+        <item>FNJN Finjan Holdings, Inc.</item>
+        <item>FNKO Funko, Inc.</item>
+        <item>FNLC First Bancorp, Inc (ME)</item>
+        <item>FNWB First Northwest Bancorp</item>
+        <item>FOCS Focus Financial Partners Inc.</item>
+        <item>FOLD Amicus Therapeutics, Inc.</item>
+        <item>FONR Fonar Corporation</item>
+        <item>FORD Forward Industries, Inc.</item>
+        <item>FORK Fuling Global Inc.</item>
+        <item>FORM FormFactor, Inc.</item>
+        <item>FORR Forrester Research, Inc.</item>
+        <item>FORTY Formula Systems (1985) Ltd.</item>
+        <item>FOSL Fossil Group, Inc.</item>
+        <item>FOX Fox Corporation</item>
+        <item>FOXA Fox Corporation</item>
+        <item>FOXF Fox Factory Holding Corp.</item>
+        <item>FPA First Trust Asia Pacific E</item>
+        <item>FPAY FlexShopper, Inc.</item>
+        <item>FPRX Five Prime Therapeutics, Inc.</item>
+        <item>FRAF Franklin Financial Services Corporation</item>
+        <item>FRAN Francesca\'s Holdings Corporation</item>
+        <item>FRBA First Bank</item>
+        <item>FRBK Republic First Bancorp, Inc.</item>
+        <item>FREQ Frequency Therapeutics, Inc.</item>
+        <item>FRG Franchise Group, Inc.</item>
+        <item>FRGI Fiesta Restaurant Group, Inc.</item>
+        <item>FRHC Freedom Holding Corp.</item>
+        <item>FRME First Merchants Corporation</item>
+        <item>FRPH FRP Holdings, Inc.</item>
+        <item>FRPT Freshpet, Inc.</item>
+        <item>FRSX Foresight Autonomous Holdings Ltd.</item>
+        <item>FRTA Forterra, Inc.</item>
+        <item>FSBC FSB Bancorp, Inc.</item>
+        <item>FSBW FS Bancorp, Inc.</item>
+        <item>FSCT ForeScout Technologies, Inc.</item>
+        <item>FSEA First Seacoast Bancorp</item>
+        <item>FSFG First Savings Financial Group, Inc.</item>
+        <item>FSLR First Solar, Inc.</item>
+        <item>FSRV FinServ Acquisition Corp.</item>
+        <item>FSRVU FinServ Acquisition Corp.</item>
+        <item>FSRVW FinServ Acquisition Corp.</item>
+        <item>FSTR L.B. Foster Company</item>
+        <item>FSV FirstService Corporation</item>
+        <item>FTAC FinTech Acquisition Corp. III</item>
+        <item>FTACU FinTech Acquisition Corp. III</item>
+        <item>FTACW FinTech Acquisition Corp. III</item>
+        <item>FTDR frontdoor, inc.</item>
+        <item>FTEK Fuel Tech, Inc.</item>
+        <item>FTFT Future FinTech Group Inc.</item>
+        <item>FTNT Fortinet, Inc.</item>
+        <item>FTR Frontier Communications Corporation</item>
+        <item>FULC Fulcrum Therapeutics, Inc.</item>
+        <item>FULT Fulton Financial Corporation</item>
+        <item>FUNC First United Corporation</item>
+        <item>FUND Sprott Focus Trust, Inc.</item>
+        <item>FUSB First US Bancshares, Inc.</item>
+        <item>FUTU Futu Holdings Limited</item>
+        <item>FUV Arcimoto, Inc.</item>
+        <item>FVCB FVCBankcorp, Inc.</item>
+        <item>FVE Five Star Senior Living Inc.</item>
+        <item>FWONA Liberty Media Corporation</item>
+        <item>FWONK Liberty Media Corporation</item>
+        <item>FWP Forward Pharma A/S</item>
+        <item>FWRD Forward Air Corporation</item>
+        <item>FXNC First National Corporation</item>
+        <item>GABC German American Bancorp, Inc.</item>
+        <item>GAIA Gaia, Inc.</item>
+        <item>GAIN Gladstone Investment Corporation</item>
+        <item>GAINL Gladstone Investment Corporation</item>
+        <item>GAINM Gladstone Investment Corporation</item>
+        <item>GALT Galectin Therapeutics Inc.</item>
+        <item>GARS Garrison Capital Inc.</item>
+        <item>GASS StealthGas, Inc.</item>
+        <item>GBCI Glacier Bancorp, Inc.</item>
+        <item>GBDC Golub Capital BDC, Inc.</item>
+        <item>GBDCR Golub Capital BDC, Inc.</item>
+        <item>GBLI Global Indemnity Limited</item>
+        <item>GBLIL Global Indemnity Limited</item>
+        <item>GBLIZ Global Indemnity Limited</item>
+        <item>GBT Global Blood Therapeutics, Inc.</item>
+        <item>GCBC Greene County Bancorp, Inc.</item>
+        <item>GDEN Golden Entertainment, Inc.</item>
+        <item>GDS GDS Holdings Limited</item>
+        <item>GDYN Grid Dynamics Holdings, Inc.</item>
+        <item>GDYNW Grid Dynamics Holdings, Inc.</item>
+        <item>GEC Great Elm Capital Group, Inc. </item>
+        <item>GECC Great Elm Capital Corp.</item>
+        <item>GECCL Great Elm Capital Corp.</item>
+        <item>GECCM Great Elm Capital Corp.</item>
+        <item>GECCN Great Elm Capital Corp.</item>
+        <item>GENC Gencor Industries Inc.</item>
+        <item>GENE Genetic Technologies Ltd</item>
+        <item>GEOS Geospace Technologies Corporation</item>
+        <item>GERN Geron Corporation</item>
+        <item>GEVO Gevo, Inc.</item>
+        <item>GFED Guaranty Federal Bancshares, Inc.</item>
+        <item>GFN General Finance Corporation</item>
+        <item>GFNCP General Finance Corporation</item>
+        <item>GFNSL General Finance Corporation</item>
+        <item>GGAL Grupo Financiero Galicia S.A.</item>
+        <item>GH Guardant Health, Inc.</item>
+        <item>GHIV Gores Holdings IV, Inc.</item>
+        <item>GHIVU Gores Holdings IV, Inc.</item>
+        <item>GHIVW Gores Holdings IV, Inc.</item>
+        <item>GHSI Guardion Health Sciences, Inc.</item>
+        <item>GIFI Gulf Island Fabrication, Inc.</item>
+        <item>GIGM GigaMedia Limited</item>
+        <item>GIII </item>
+        <item>GILD Gilead Sciences, Inc.</item>
+        <item>GILT Gilat Satellite Networks Ltd.</item>
+        <item>GLAD Gladstone Capital Corporation</item>
+        <item>GLADD Gladstone Capital Corporation</item>
+        <item>GLADL Gladstone Capital Corporation</item>
+        <item>GLBS Globus Maritime Limited</item>
+        <item>GLBZ Glen Burnie Bancorp</item>
+        <item>GLDD Great Lakes Dredge &amp; Dock Corporation</item>
+        <item>GLDI Credit Suisse AG</item>
+        <item>GLG TD Holdings, Inc.</item>
+        <item>GLIBA GCI Liberty, Inc.</item>
+        <item>GLIBP GCI Liberty, Inc.</item>
+        <item>GLMD Galmed Pharmaceuticals Ltd.</item>
+        <item>GLNG Golar LNG Limited</item>
+        <item>GLPG Galapagos NV</item>
+        <item>GLPI Gaming and Leisure Properties, Inc.</item>
+        <item>GLRE Greenlight Reinsurance, Ltd.</item>
+        <item>GLUU Glu Mobile Inc.</item>
+        <item>GLYC GlycoMimetics, Inc.</item>
+        <item>GMAB Genmab A/S</item>
+        <item>GMBL Esports Entertainment Group Inc.</item>
+        <item>GMBLW Esports Entertainment Group Inc.</item>
+        <item>GMDA Gamida Cell Ltd.</item>
+        <item>GMHI Gores Metropoulos, Inc.</item>
+        <item>GMHIU Gores Metropoulos, Inc.</item>
+        <item>GMHIW Gores Metropoulos, Inc.</item>
+        <item>GMLP Golar LNG Partners LP</item>
+        <item>GMLPP Golar LNG Partners LP</item>
+        <item>GNCA Genocea Biosciences, Inc.</item>
+        <item>GNFT GENFIT S.A.</item>
+        <item>GNLN Greenlane Holdings, Inc.</item>
+        <item>GNMK GenMark Diagnostics, Inc.</item>
+        <item>GNPX Genprex, Inc.</item>
+        <item>GNRSU Greenrose Acquisition Corp.</item>
+        <item>GNSS Genasys Inc.</item>
+        <item>GNTX Gentex Corporation</item>
+        <item>GNTY Guaranty Bancshares, Inc.</item>
+        <item>GNUS Genius Brands International, Inc.</item>
+        <item>GO Grocery Outlet Holding Corp.</item>
+        <item>GOGL Golden Ocean Group Limited</item>
+        <item>GOGO Gogo Inc.</item>
+        <item>GOOD Gladstone Commercial Corporation</item>
+        <item>GOODM Gladstone Commercial Corporation</item>
+        <item>GOODN Gladstone Commercial Corporation</item>
+        <item>GOOG Alphabet Inc.</item>
+        <item>GOOGL Alphabet Inc.</item>
+        <item>GOSS Gossamer Bio, Inc.</item>
+        <item>GPAQ Gordon Pointe Acquisition Corp.</item>
+        <item>GPAQU Gordon Pointe Acquisition Corp.</item>
+        <item>GPAQW Gordon Pointe Acquisition Corp.</item>
+        <item>GPOR Gulfport Energy Corporation</item>
+        <item>GPP Green Plains Partners LP</item>
+        <item>GPRE Green Plains, Inc.</item>
+        <item>GPRO GoPro, Inc.</item>
+        <item>GRBK Green Brick Partners, Inc.</item>
+        <item>GRFS Grifols, S.A.</item>
+        <item>GRIF Griffin Industrial Realty, Inc.</item>
+        <item>GRIL Muscle Maker, Inc</item>
+        <item>GRIN Grindrod Shipping Holdings Ltd.</item>
+        <item>GRMN Garmin Ltd.</item>
+        <item>GRNQ Greenpro Capital Corp.</item>
+        <item>GRNV GreenVision Acquisition Corp</item>
+        <item>GRNVR GreenVision Acquisition Corp</item>
+        <item>GRNVU GreenVision Acquisition Corp</item>
+        <item>GRNVW GreenVision Acquisition Corp</item>
+        <item>GROW U.S. Global Investors, Inc.</item>
+        <item>GRPN Groupon, Inc.</item>
+        <item>GRTS Gritstone Oncology, Inc.</item>
+        <item>GRTX Galera Therapeutics, Inc.</item>
+        <item>GRVY GRAVITY Co., Ltd.</item>
+        <item>GRWG GrowGeneration Corp.</item>
+        <item>GSBC Great Southern Bancorp, Inc.</item>
+        <item>GSHD Goosehead Insurance, Inc.</item>
+        <item>GSIT GSI Technology, Inc.</item>
+        <item>GSKY GreenSky, Inc.</item>
+        <item>GSM Ferroglobe PLC</item>
+        <item>GSMG Glory Star New Media Group Holdings Limited</item>
+        <item>GSMGW Glory Star New Media Group Holdings Limited</item>
+        <item>GSUM Gridsum Holding Inc.</item>
+        <item>GT The Goodyear Tire &amp; Rubber Company</item>
+        <item>GTEC Greenland Technologies Holding Corporation</item>
+        <item>GTHX G1 Therapeutics, Inc.</item>
+        <item>GTIM Good Times Restaurants Inc.</item>
+        <item>GTLS Chart Industries, Inc.</item>
+        <item>GTYH GTY Technology Holdings, Inc.</item>
+        <item>GURE Gulf Resources, Inc.</item>
+        <item>GVP GSE Systems, Inc.</item>
+        <item>GWGH GWG Holdings, Inc</item>
+        <item>GWPH GW Pharmaceuticals Plc</item>
+        <item>GWRS Global Water Resources, Inc.</item>
+        <item>GXGX GX Acquisition Corp.</item>
+        <item>GXGXU GX Acquisition Corp.</item>
+        <item>GXGXW GX Acquisition Corp.</item>
+        <item>GYRO Gyrodyne , LLC</item>
+        <item>HA Hawaiian Holdings, Inc.</item>
+        <item>HAFC Hanmi Financial Corporation</item>
+        <item>HAIN The Hain Celestial Group, Inc.</item>
+        <item>HALL Hallmark Financial Services, Inc.</item>
+        <item>HALO Halozyme Therapeutics, Inc.</item>
+        <item>HAPP Happiness Biotech Group Limited</item>
+        <item>HARP Harpoon Therapeutics, Inc.</item>
+        <item>HAS Hasbro, Inc.</item>
+        <item>HAYN Haynes International, Inc.</item>
+        <item>HBAN Huntington Bancshares Incorporated</item>
+        <item>HBANN Huntington Bancshares Incorporated</item>
+        <item>HBANO Huntington Bancshares Incorporated</item>
+        <item>HBCP Home Bancorp, Inc.</item>
+        <item>HBIO Harvard Bioscience, Inc.</item>
+        <item>HBMD Howard Bancorp, Inc.</item>
+        <item>HBNC Horizon Bancorp, Inc.</item>
+        <item>HBP Huttig Building Products, Inc.</item>
+        <item>HBT HBT Financial, Inc.</item>
+        <item>HCAC Hennessy Capital Acquisition Corp. IV</item>
+        <item>HCACU Hennessy Capital Acquisition Corp. IV</item>
+        <item>HCACW Hennessy Capital Acquisition Corp. IV</item>
+        <item>HCAP Harvest Capital Credit Corporation</item>
+        <item>HCAPZ Harvest Capital Credit Corporation</item>
+        <item>HCAT Health Catalyst, Inc</item>
+        <item>HCCH HL Acquisitions Corp.</item>
+        <item>HCCHR HL Acquisitions Corp.</item>
+        <item>HCCHU HL Acquisitions Corp.</item>
+        <item>HCCHW HL Acquisitions Corp.</item>
+        <item>HCCI Heritag</item>
+        <item>HCCO Healthcare Merger Corp.</item>
+        <item>HCCOU Healthcare Merger Corp.</item>
+        <item>HCCOW Healthcare Merger Corp.</item>
+        <item>HCKT The Hackett Group, Inc.</item>
+        <item>HCM Hutchison China MediTech Limited</item>
+        <item>HCSG Healthcare Services Group, Inc.</item>
+        <item>HDS HD Supply Holdings, Inc.</item>
+        <item>HDSN Hudson Technologies, Inc.</item>
+        <item>HEAR Turtle Beach Corporation</item>
+        <item>HEBT Hebron Technology Co., Ltd.</item>
+        <item>HEES H&amp;E Equipment Services, Inc.</item>
+        <item>HELE Helen of Troy Limited</item>
+        <item>HEPA Hepion Pharmaceuticals, Inc.</item>
+        <item>HFBL Home Federal Bancorp, Inc. of Louisiana</item>
+        <item>HFFG HF Foods Group Inc.</item>
+        <item>HFWA Heritage Financial Corporation</item>
+        <item>HGSH China HGS Real Estate, Inc.</item>
+        <item>HHHH Wealthbridge Acquisition Limited</item>
+        <item>HHHHR Wealthbridge Acquisition Limited</item>
+        <item>HHHHU Wealthbridge Acquisition Limited</item>
+        <item>HHHHW Wealthbridge Acquisition Limited</item>
+        <item>HHR HeadHunter Group PLC</item>
+        <item>HHT Huitao Technology Co., Ltd.</item>
+        <item>HIBB Hibbett Sports, Inc.</item>
+        <item>HIFS Hingham Institution for Savings</item>
+        <item>HIHO Highway Holdings Limited</item>
+        <item>HIMX Himax Technologies, Inc.</item>
+        <item>HJLI Hancock Jaffe Laboratories, Inc.</item>
+        <item>HJLIW Hancock Jaffe Laboratories, Inc.</item>
+        <item>HLG Hailiang Education Group Inc.</item>
+        <item>HLIO Helios Technologies, Inc.</item>
+        <item>HLIT Harmonic Inc.</item>
+        <item>HLNE Hamilton Lane Incorporated</item>
+        <item>HMHC Houghton Mifflin Harcourt Company</item>
+        <item>HMNF HMN Financial, Inc.</item>
+        <item>HMST HomeStreet, Inc.</item>
+        <item>HMSY HMS Holdings Corp</item>
+        <item>HMTV Hemisphere Media Group, Inc.</item>
+        <item>HNNA Hennessy Advisors, Inc.</item>
+        <item>HNRG Hallador Energy Company</item>
+        <item>HOFT Hooker Furniture Corporation</item>
+        <item>HOLI Hollysys Automation Technologies, Ltd.</item>
+        <item>HOLX Hologic, Inc.</item>
+        <item>HOMB Home BancShares, Inc.</item>
+        <item>HONE HarborOne Bancorp, Inc.</item>
+        <item>HOOK HOOKIPA Pharma Inc.</item>
+        <item>HOPE Hope Bancorp, Inc.</item>
+        <item>HOTH Hoth Therapeutics, Inc.</item>
+        <item>HOVNP Hovnanian Enterprises Inc</item>
+        <item>HQI HireQuest, Inc.</item>
+        <item>HQY HealthEquity, Inc.</item>
+        <item>HROW Harrow Health, Inc.</item>
+        <item>HRTX Heron Therapeutics, Inc.  </item>
+        <item>HRZN Horizon Technology Finance Corporation</item>
+        <item>HSDT Helius Medical Technologies, Inc.</item>
+        <item>HSIC Henry Schein, Inc.</item>
+        <item>HSII Heidrick &amp; Struggles International, Inc.</item>
+        <item>HSKA Heska Corporation</item>
+        <item>HSON Hudson Global, Inc.</item>
+        <item>HSTM HealthStream, Inc.</item>
+        <item>HTBI HomeTrust Bancshares, Inc.</item>
+        <item>HTBK Heritage Commerce Corp</item>
+        <item>HTBX Heat Biologics, Inc.</item>
+        <item>HTGM HTG Molecular Diagnostics, Inc.</item>
+        <item>HTHT Huazhu Group Limited</item>
+        <item>HTIA Healthcare Trust, Inc.</item>
+        <item>HTLD Heartland Express, Inc.</item>
+        <item>HTLF Heartland Financial USA, Inc.</item>
+        <item>HUBG Hub Group, Inc.</item>
+        <item>HUGE FSD Pharma Inc.</item>
+        <item>HUIZ Huize Holding Limited</item>
+        <item>HURC Hurco Companies, Inc.</item>
+        <item>HURN Huron Consulting Group Inc.</item>
+        <item>HVBC HV Bancorp, Inc.</item>
+        <item>HWBK Hawthorn Bancshares, Inc.</item>
+        <item>HWC Hancock Whitney Corporation</item>
+        <item>HWCC Houston Wire &amp; Cable Company</item>
+        <item>HWCPL Hancock Whitney Corporation</item>
+        <item>HWKN Hawkins, Inc.</item>
+        <item>HX Hexindai Inc.</item>
+        <item>HYAC Haymaker Acquisition Corp. II</item>
+        <item>HYACU Haymaker Acquisition Corp. II</item>
+        <item>HYACW Haymaker Acquisition Corp. II</item>
+        <item>HYRE HyreCar Inc.</item>
+        <item>HZNP Horizon Therapeutics Public Limited Company</item>
+        <item>IAC IAC/InterActiveCorp</item>
+        <item>IART Integra LifeSciences Holdings Corporation</item>
+        <item>IBCP Independent Bank Corporation</item>
+        <item>IBKC IBERIABANK Corporation</item>
+        <item>IBKCN IBERIABANK Corporation</item>
+        <item>IBKCO IBERIABANK Corporation</item>
+        <item>IBKCP IBERIABANK Corporation</item>
+        <item>IBKR Interactive Brokers Group, Inc.</item>
+        <item>IBOC International Bancshares Corporation</item>
+        <item>IBTX Independent Bank Group, Inc</item>
+        <item>ICAD icad inc.</item>
+        <item>ICBK County Bancorp, Inc.</item>
+        <item>ICCC ImmuCell Corporation</item>
+        <item>ICCH ICC Holdings, Inc.</item>
+        <item>ICFI ICF International, Inc.</item>
+        <item>ICHR Ichor Holdings</item>
+        <item>ICLK iClick Interactive Asia Group Limited</item>
+        <item>ICLR ICON plc</item>
+        <item>ICMB Investcorp Credit Management BDC, Inc.</item>
+        <item>ICON Iconix Brand Group, Inc.</item>
+        <item>ICPT Intercept Pharmaceuticals, Inc.</item>
+        <item>ICUI ICU Medical, Inc.</item>
+        <item>IDCC InterDigital, Inc.</item>
+        <item>IDEX Ideanomics, Inc.</item>
+        <item>IDN Intellicheck, Inc.</item>
+        <item>IDRA Idera Pharmaceuticals, Inc.</item>
+        <item>IDXG Interpace Biosciences, Inc.</item>
+        <item>IDXX IDEXX Laboratories, Inc.</item>
+        <item>IDYA IDEAYA Biosciences, Inc.</item>
+        <item>IEA Infrastructure and Energy Alternatives, Inc.</item>
+        <item>IEAWW Infrastructure and Energy Alternatives, Inc.</item>
+        <item>IEC IEC Electronics Corp.</item>
+        <item>IEF iShares </item>
+        <item>IEI iShares </item>
+        <item>IEP Icahn Enterprises L.P.</item>
+        <item>IESC IES Holdings, Inc.</item>
+        <item>IEUS iShares MSCI Europe Smal</item>
+        <item>IFGL iShares FTSE EPRA/NAREIT Global Real Estate e</item>
+        <item>IFMK iFresh Inc.</item>
+        <item>IFRX InflaRx N.V.</item>
+        <item>IGIB iShares Intermediat</item>
+        <item>IGIC International General Insurance Holdings Ltd.</item>
+        <item>IGICW International General Insurance Holdings Ltd.</item>
+        <item>IGMS IGM Biosciences, Inc.</item>
+        <item>IGSB iShares Shor</item>
+        <item>IHRT iHeartMedia, Inc.</item>
+        <item>III Information Services Group, Inc.</item>
+        <item>IIIN Insteel Industries, Inc.</item>
+        <item>IIIV i3 Verticals, Inc.</item>
+        <item>IIN IntriCon Corporation</item>
+        <item>IIVI I</item>
+        <item>IJT iShares S&amp;P Smal</item>
+        <item>IKNX Ikonics Corporation</item>
+        <item>ILMN Illumina, Inc.</item>
+        <item>ILPT Industrial Logistics Properties Trust</item>
+        <item>IMAB </item>
+        <item>IMAC IMAC Holdings, Inc.</item>
+        <item>IMACW IMAC Holdings, Inc.</item>
+        <item>IMBI iMedia Brands, Inc.</item>
+        <item>IMGN ImmunoGen, Inc.</item>
+        <item>IMKTA Ingles Markets, Incorporated</item>
+        <item>IMMP Immutep Limited</item>
+        <item>IMMR Immersion Corporation</item>
+        <item>IMMU Immunomedics, Inc.</item>
+        <item>IMOS ChipMOS TECHNOLOGIES INC.</item>
+        <item>IMRA IMARA Inc.</item>
+        <item>IMRN Immuron Limited</item>
+        <item>IMRNW Immuron Limited</item>
+        <item>IMTE Integrated Media Technology Limited</item>
+        <item>IMUX Immunic, Inc. </item>
+        <item>IMV IMV Inc.</item>
+        <item>IMVT Immunovant, Inc. </item>
+        <item>IMVTU Immunovant, Inc. </item>
+        <item>IMVTW Immunovant, Inc. </item>
+        <item>IMXI International Money Express, Inc.</item>
+        <item>INBK First Internet Bancorp</item>
+        <item>INBKL First Internet Bancorp</item>
+        <item>INBKZ First Internet Bancorp</item>
+        <item>INCY Incyte Corporation</item>
+        <item>INDB Independent Bank Corp.</item>
+        <item>INFI Infinity Pharmaceuticals, Inc.</item>
+        <item>INFN Infinera Corporation</item>
+        <item>INGN Inogen, Inc</item>
+        <item>INMB INmune Bio Inc.</item>
+        <item>INMD InMode Ltd. </item>
+        <item>INNT Innovate Biopharmaceuticals, Inc.</item>
+        <item>INO Inovio Pharmaceuticals, Inc.</item>
+        <item>INOD Innodata Inc.</item>
+        <item>INOV Inovalon Holdings, Inc.</item>
+        <item>INPX Inpixon </item>
+        <item>INSE Inspired Entertainment, Inc.</item>
+        <item>INSG Inseego Corp.</item>
+        <item>INSM Insmed, Inc.</item>
+        <item>INSU Insurance Acquisition Corp.</item>
+        <item>INSUU Insurance Acquisition Corp.</item>
+        <item>INSUW Insurance Acquisition Corp.</item>
+        <item>INTC Intel Corporation</item>
+        <item>INTG The Intergroup Corporation</item>
+        <item>INTL INTL FCStone Inc.</item>
+        <item>INTU Intuit Inc.</item>
+        <item>INVA Innoviva, Inc.</item>
+        <item>INVE Identiv, Inc.</item>
+        <item>INWK InnerWorkings, Inc.</item>
+        <item>IONS Ionis Pharmaceuticals, Inc.</item>
+        <item>IOSP Innospec Inc.</item>
+        <item>IOTS Adesto Technologies Corporation</item>
+        <item>IOVA Iovance Biotherapeutics, Inc.</item>
+        <item>IPAR Inter Parfums, Inc.</item>
+        <item>IPDN Professional Diversity Network, Inc.</item>
+        <item>IPGP IPG Photonics Corporation</item>
+        <item>IPHA Innate Pharma S.A.</item>
+        <item>IPLDP Interstate Power and Light Company</item>
+        <item>IPWR Ideal Power Inc.</item>
+        <item>IQ iQIYI, Inc.</item>
+        <item>IRBT iRobot Corporation</item>
+        <item>IRCP IRSA Propiedades Comerciales S.A.</item>
+        <item>IRDM Iridium Communications Inc</item>
+        <item>IRIX IRIDEX Corporation</item>
+        <item>IRMD iRadimed Corporation</item>
+        <item>IROQ IF Bancorp, Inc.</item>
+        <item>IRTC iRhythm Technologies, Inc.</item>
+        <item>IRWD Ironwood Pharmaceuticals, Inc.</item>
+        <item>ISBC Investors Bancorp, Inc.</item>
+        <item>ISDS Invesco RAFI Strategic Developed e</item>
+        <item>ISDX Invesco RAFI Strategic Developed e</item>
+        <item>ISEE IVERIC bio, Inc.</item>
+        <item>ISHG iShares </item>
+        <item>ISIG Insignia Systems, Inc.</item>
+        <item>ISNS Image Sensing Systems, Inc.</item>
+        <item>ISRG Intuitive Surgical, Inc.</item>
+        <item>ISSC Innovative Solutions and Support, Inc.</item>
+        <item>ISTB iShares Core </item>
+        <item>ISTR Investar Holding Corporation</item>
+        <item>ITCI Intr</item>
+        <item>ITI Iteris, Inc.</item>
+        <item>ITIC Investors Title Company</item>
+        <item>ITMR Itamar Medical Ltd.</item>
+        <item>ITRI Itron, Inc.</item>
+        <item>ITRM Iterum Therapeutics plc</item>
+        <item>ITRN Ituran Location and Control Ltd.</item>
+        <item>IVAC Intevac, Inc.</item>
+        <item>IZEA IZEA Worldwide, Inc.</item>
+        <item>JACK Jack In The Box Inc.</item>
+        <item>JAGX Jaguar Health, Inc.</item>
+        <item>JAKK JAKKS Pacific, Inc.</item>
+        <item>JAN JanOne Inc.</item>
+        <item>JAZZ Jazz Pharmaceuticals plc</item>
+        <item>JBHT J.B. Hunt Transport Services, Inc.</item>
+        <item>JBLU JetBlue Airways Corporation</item>
+        <item>JBSS John B. Sanfilippo &amp; Son, Inc.</item>
+        <item>JCOM j2 Global, Inc.</item>
+        <item>JCS Communications Systems, Inc.</item>
+        <item>JCTCF Jewet</item>
+        <item>JD JD.com, Inc.</item>
+        <item>JFIN Jiayin Group Inc.</item>
+        <item>JFK 8i Enterprises Acquisition Corp</item>
+        <item>JFKKR 8i Enterprises Acquisition Corp</item>
+        <item>JFKKU 8i Enterprises Acquisition Corp</item>
+        <item>JFKKW 8i Enterprises Acquisition Corp</item>
+        <item>JFU 9F Inc.</item>
+        <item>JG Aurora Mobile Limited</item>
+        <item>JJSF J &amp; J Snack Foods Corp.</item>
+        <item>JKHY Jack Henry &amp; Associates, Inc.</item>
+        <item>JKI iShares Morningstar Mi</item>
+        <item>JMPNL JMP Group LLC</item>
+        <item>JMPNZ JMP Group LLC</item>
+        <item>JNCE Jounce Therapeutics, Inc.</item>
+        <item>JOBS 51job, Inc.</item>
+        <item>JOUT Johnson Outdoors Inc.</item>
+        <item>JRJC China Finance Online Co. Limited</item>
+        <item>JRSH Jerash Holdings (US), Inc.</item>
+        <item>JRVR James River Group Holdings, Ltd.</item>
+        <item>JSM Navient Corporation</item>
+        <item>JVA Coffee Holding Co., Inc.</item>
+        <item>JYNT The Joint Corp.</item>
+        <item>KALA Kala Pharmaceuticals, Inc.</item>
+        <item>KALU Kaiser Aluminum Corporation</item>
+        <item>KALV KalVista Pharmaceuticals, Inc.</item>
+        <item>KBAL Kimball International, Inc.</item>
+        <item>KBLM KBL Merger Corp. IV</item>
+        <item>KBLMR KBL Merger Corp. IV</item>
+        <item>KBLMU KBL Merger Corp. IV</item>
+        <item>KBLMW KBL Merger Corp. IV</item>
+        <item>KBSF KBS Fashion Group Limited</item>
+        <item>KCAPL Portman Ridge Finance Corporation</item>
+        <item>KE Kimball Electronics, Inc.</item>
+        <item>KELYA Kelly Services, Inc.</item>
+        <item>KELYB Kelly Services, Inc.</item>
+        <item>KEQU Kewaunee Scientific Corporation</item>
+        <item>KERN Akerna Corp.</item>
+        <item>KERNW Akerna Corp.</item>
+        <item>KFFB Kentucky First Federal Bancorp</item>
+        <item>KFRC Kforce, Inc.</item>
+        <item>KGJI Kingold Jewelry Inc.</item>
+        <item>KHC The Kraft Heinz Company</item>
+        <item>KIDS OrthoPediatrics Corp.</item>
+        <item>KIN Kindred Biosciences, Inc.</item>
+        <item>KINS Kingstone Companies, Inc</item>
+        <item>KIRK Kirkland\'s, Inc.</item>
+        <item>KLAC KLA Corporation </item>
+        <item>KLDO Kaleido Biosciences, Inc.</item>
+        <item>KLIC Kulicke and Soffa Industries, Inc.</item>
+        <item>KLXE KLX Energy Services Holdings, Inc. </item>
+        <item>KMDA Kamada Ltd.</item>
+        <item>KMPH KemPharm, Inc.</item>
+        <item>KNDI Kandi Technologies Group, Inc.</item>
+        <item>KNSA Kiniksa Pharmaceuticals, Ltd.</item>
+        <item>KNSL Kinsale Capital Group, Inc.</item>
+        <item>KOD Kodiak Sciences Inc</item>
+        <item>KOPN Kopin Corporation</item>
+        <item>KOSS Koss Corporation</item>
+        <item>KPTI Karyopharm Therapeutics Inc.</item>
+        <item>KRKR 36Kr Holdings Inc.</item>
+        <item>KRMD Repro Med Systems, Inc.</item>
+        <item>KRNT Kornit Digital Ltd.</item>
+        <item>KRNY Kearny Financial</item>
+        <item>KROS Keros Therapeutics, Inc.</item>
+        <item>KRTX Karuna Therapeutics, Inc.</item>
+        <item>KRUS Kura Sushi USA, Inc.</item>
+        <item>KRYS Krystal Biotech, Inc.</item>
+        <item>KTCC Key Tronic Corporation</item>
+        <item>KTOS Kratos Defense &amp; Security Solutions, Inc.</item>
+        <item>KTOV Kitov Pharma Ltd.</item>
+        <item>KTOVW Kitov Pharma Ltd.</item>
+        <item>KURA Kura Oncology, Inc.</item>
+        <item>KVHI KVH Industries, Inc.</item>
+        <item>KXIN Kaixin Auto Holdings</item>
+        <item>KZIA Kazia Therapeutics Limited</item>
+        <item>KZR Kezar Life Sciences, Inc.</item>
+        <item>LACQ Leisure Acquisition Corp.</item>
+        <item>LACQU Leisure Acquisition Corp.</item>
+        <item>LACQW Leisure Acquisition Corp.</item>
+        <item>LAKE Lakeland Industries, Inc.</item>
+        <item>LAMR Lamar Advertising Company</item>
+        <item>LANC Lancaster Colony Corporation</item>
+        <item>LAND Gladstone Land Corporation</item>
+        <item>LANDP Gladstone Land Corporation</item>
+        <item>LARK Landmark Bancorp Inc.</item>
+        <item>LASR nLIGHT, Inc.</item>
+        <item>LATN Union Acquisition Corp. II</item>
+        <item>LATNU Union Acquisition Corp. II</item>
+        <item>LATNW Union Acquisition Corp. II</item>
+        <item>LAUR Laureate Education, Inc.</item>
+        <item>LAWS Lawson Products, Inc.</item>
+        <item>LAZY Lazydays Holdings, Inc.</item>
+        <item>LBAI Lakeland Bancorp, Inc.</item>
+        <item>LBC Luther Burbank Corporation</item>
+        <item>LBRDA Liberty Broadband Corporation</item>
+        <item>LBRDK Liberty Broadband Corporation</item>
+        <item>LBTYA Liberty Global plc</item>
+        <item>LBTYB Liberty Global plc</item>
+        <item>LBTYK Liberty Global plc</item>
+        <item>LCA Landcadia Holdings II, Inc.</item>
+        <item>LCAHU Landcadia Holdings II, Inc.</item>
+        <item>LCAHW Landcadia Holdings II, Inc.</item>
+        <item>LCNB LCNB Corporation</item>
+        <item>LCUT Lifetime Brands, Inc.</item>
+        <item>LE Lands\' End, Inc.</item>
+        <item>LECO Lincoln Electric Holdings, Inc.</item>
+        <item>LEDS SemiLEDS Corporation</item>
+        <item>LEGH Legacy Housing Corporation</item>
+        <item>LEVL Level One Bancorp, Inc.</item>
+        <item>LFAC LF Capital Acquistion Corp.</item>
+        <item>LFACU LF Capital Acquistion Corp.</item>
+        <item>LFACW LF Capital Acquistion Corp.</item>
+        <item>LFUS Littelfuse, Inc.</item>
+        <item>LFVN Lifevantage Corporation</item>
+        <item>LGIH LGI Homes, Inc.</item>
+        <item>LGND Ligand Pharmaceuticals Incorporated</item>
+        <item>LHCG LHC Group</item>
+        <item>LIFE aTyr Pharma, Inc.</item>
+        <item>LILA Liberty Latin America Ltd.</item>
+        <item>LILAK Liberty Latin America Ltd.</item>
+        <item>LINC Lincoln Educational Services Corporation</item>
+        <item>LIND Lindblad Expeditions Holdings Inc. </item>
+        <item>LIQT LiqTech International, Inc.</item>
+        <item>LITE Lumentum Holdings Inc.</item>
+        <item>LIVE Live Ventures Incorporated</item>
+        <item>LIVK LIV Capital Acquisition Corp.</item>
+        <item>LIVKU LIV Capital Acquisition Corp.</item>
+        <item>LIVKW LIV Capital Acquisition Corp.</item>
+        <item>LIVN LivaNova PLC</item>
+        <item>LIVX LiveXLive Media, Inc.</item>
+        <item>LIZI LIZHI INC.</item>
+        <item>LJPC La Jolla Pharmaceutical Company</item>
+        <item>LK Luckin Coffee Inc.</item>
+        <item>LKCO Luokung Technology Corp</item>
+        <item>LKFN Lakeland Financial Corporation</item>
+        <item>LKQ LKQ Corporation</item>
+        <item>LLIT Lianluo Smart Limited</item>
+        <item>LLNW Limelight Networks, Inc.</item>
+        <item>LMAT LeMaitre Vascular, Inc.</item>
+        <item>LMB Limbach Holdings, Inc.</item>
+        <item>LMFA LM Funding America, Inc.</item>
+        <item>LMFAW LM Funding America, Inc.</item>
+        <item>LMNL Liminal BioSciences Inc.</item>
+        <item>LMNR Limoneira Co</item>
+        <item>LMNX Luminex Corporation</item>
+        <item>LMPX LMP Automotive Holdings, Inc.</item>
+        <item>LMRK Landmark Infrastructure Partners LP</item>
+        <item>LMRKN Landmark Infrastructure Partners LP</item>
+        <item>LMRKO Landmark Infrastructure Partners LP</item>
+        <item>LMRKP Landmark Infrastructure Partners LP</item>
+        <item>LMST Limestone Bancorp, Inc.</item>
+        <item>LNDC Landec Corporation</item>
+        <item>LNT Alliant Energy Corporation</item>
+        <item>LNTH Lantheus Holdings, Inc.</item>
+        <item>LOAC Longevity Acquisition Corporation</item>
+        <item>LOACR Longevity Acquisition Corporation</item>
+        <item>LOACU Longevity Acquisition Corporation</item>
+        <item>LOACW Longevity Acquisition Corporation</item>
+        <item>LOAN Manhattan Bridge Capital, Inc</item>
+        <item>LOB Live Oak Bancshares, Inc.</item>
+        <item>LOCO El Pollo Loco Holdings, Inc.</item>
+        <item>LOGC LogicBio Therapeutics, Inc.</item>
+        <item>LOGI Logitech International S.A.</item>
+        <item>LOGM LogMeIn, Inc.</item>
+        <item>LONE Lonestar Resources US Inc.</item>
+        <item>LOOP Loop Industries, Inc.</item>
+        <item>LOPE Grand Canyon Education, Inc.</item>
+        <item>LORL Loral Space and Communications, Inc.</item>
+        <item>LOVE The Lovesac Company</item>
+        <item>LPCN Lipocine Inc.</item>
+        <item>LPLA LPL Financial Holdings Inc.</item>
+        <item>LPSN LivePerson, Inc.</item>
+        <item>LPTH LightPath Technologies, Inc.</item>
+        <item>LPTX Leap Therapeutics, Inc.</item>
+        <item>LQDA Liquidia Technologies, Inc.</item>
+        <item>LQDT Liquidity Services, Inc.</item>
+        <item>LRCX Lam Research Corporation</item>
+        <item>LSACU LifeSci Acquisition Corp.</item>
+        <item>LSBK Lake Shore Bancorp, Inc.</item>
+        <item>LSCC Lattice Semiconductor Corporation</item>
+        <item>LSTR Landstar System, Inc.</item>
+        <item>LSXMA Liberty Media Corporation</item>
+        <item>LSXMB Liberty Media Corporation</item>
+        <item>LSXMK Liberty Media Corporation</item>
+        <item>LTBR Lightbridge Corporation</item>
+        <item>LTRPA Liberty TripAdvisor Holdings, Inc.</item>
+        <item>LTRPB Liberty TripAdvisor Holdings, Inc.</item>
+        <item>LTRX Lantronix, Inc.</item>
+        <item>LULU lululemon athletica inc.</item>
+        <item>LUMO Lumos Pharma, Inc.</item>
+        <item>LUNA Luna Innovations Incorporated</item>
+        <item>LVGO Livongo Health, Inc.</item>
+        <item>LWAY Lifeway Foods, Inc.</item>
+        <item>LX LexinFintech Holdings Ltd.</item>
+        <item>LXRX Lexicon Pharmaceuticals, Inc.</item>
+        <item>LYFT Lyft, Inc.</item>
+        <item>LYL Dragon Victory International Limited</item>
+        <item>LYTS LSI Industries Inc.</item>
+        <item>MACK Merrimack Pharmaceuticals, Inc.</item>
+        <item>MAGS Magal Security Systems Ltd.</item>
+        <item>MANH Manhattan Associates, Inc.</item>
+        <item>MANT ManTech International Corporation</item>
+        <item>MAR Marriott International</item>
+        <item>MARA Marathon Patent Group, Inc.</item>
+        <item>MARK Remark Holdings, Inc.</item>
+        <item>MARPS Marine Petroleum Trust</item>
+        <item>MASI Masimo Corporation</item>
+        <item>MAT Mattel, Inc.</item>
+        <item>MATW Matthews International Corporation</item>
+        <item>MAYS J. W. Mays, Inc.</item>
+        <item>MBCN Middlefield Banc Corp.</item>
+        <item>MBII Marrone Bio Innovations, Inc.</item>
+        <item>MBIN Merchants Bancorp</item>
+        <item>MBINO Merchants Bancorp</item>
+        <item>MBINP Merchants Bancorp</item>
+        <item>MBIO Mustang Bio, Inc.</item>
+        <item>MBNKP Medallion Bank</item>
+        <item>MBOT Microbot Medical Inc. </item>
+        <item>MBRX Moleculin Biotech, Inc.</item>
+        <item>MBUU Malibu Boats, Inc.</item>
+        <item>MBWM Mercantile Bank Corporation</item>
+        <item>MCBC Macatawa Bank Corporation</item>
+        <item>MCBS MetroCity Bankshares, Inc.</item>
+        <item>MCEP Mi</item>
+        <item>MCFT MasterCraft Boat Holdings, Inc.</item>
+        <item>MCHP Microchip Technology Incorporated</item>
+        <item>MCHX Marchex, Inc.</item>
+        <item>MCMJ Merida Merger Corp. I</item>
+        <item>MCMJW Merida Merger Corp. I</item>
+        <item>MCRB Seres Therapeutics, Inc.</item>
+        <item>MCRI Monarch Casino &amp; Resort, Inc.</item>
+        <item>MDB MongoDB, Inc.</item>
+        <item>MDCA MDC Partners Inc.</item>
+        <item>MDGL Madrigal Pharmaceuticals, Inc.</item>
+        <item>MDGS Medigus Ltd.</item>
+        <item>MDGSW Medigus Ltd.</item>
+        <item>MDIA Mediaco Holding Inc.</item>
+        <item>MDIV First Trust Mult</item>
+        <item>MDJH MDJM LTD</item>
+        <item>MDLZ Mondelez International, Inc.</item>
+        <item>MDRR Medalist Diversified REIT, Inc.</item>
+        <item>MDRRP Medalist Diversified REIT, Inc.</item>
+        <item>MDRX Allscripts Healthcare Solutions, Inc.</item>
+        <item>MDWD MediWound Ltd.</item>
+        <item>MEDP Medpace Holdings, Inc.</item>
+        <item>MEDS Trxade Group, Inc.</item>
+        <item>MEET The Meet Group, Inc.</item>
+        <item>MEIP MEI Pharma, Inc.</item>
+        <item>MELI MercadoLibre, Inc.</item>
+        <item>MEOH Methanex Corporation</item>
+        <item>MERC Mercer International Inc.</item>
+        <item>MESA Mesa Air Group, Inc.</item>
+        <item>MESO Mesoblast Limited</item>
+        <item>METC Ramaco Resources, Inc.</item>
+        <item>METX Meten EdtechX Education Group Ltd.</item>
+        <item>MFH JMU Limited</item>
+        <item>MFIN Medallion Financial Corp.</item>
+        <item>MFINL Medallion Financial Corp.</item>
+        <item>MFNC Mackinac Financial Corporation</item>
+        <item>MFSF MutualFirst Financial Inc.</item>
+        <item>MGEE MGE Energy Inc.</item>
+        <item>MGEN Miragen Therapeutics, Inc.</item>
+        <item>MGI Moneygram International, Inc.</item>
+        <item>MGIC Magic Software Enterprises Ltd.</item>
+        <item>MGLN Magellan Health, Inc.</item>
+        <item>MGNX MacroGenics, Inc.</item>
+        <item>MGPI MGP Ingredients, Inc.</item>
+        <item>MGRC McGrath RentCorp</item>
+        <item>MGTA Magenta Therapeutics, Inc.</item>
+        <item>MGTX MeiraGTx Holdings plc</item>
+        <item>MGYR Magyar Bancorp, Inc.</item>
+        <item>MHLD Maiden Holdings, Ltd.</item>
+        <item>MICT MICT, Inc.</item>
+        <item>MIDD The Middleby Corporation</item>
+        <item>MIK The Michaels Companies, Inc.</item>
+        <item>MIME Mimecast Limited</item>
+        <item>MIND Mitcham Industries, Inc.</item>
+        <item>MINDP Mitcham Industries, Inc.</item>
+        <item>MINI Mobile Mini, Inc.</item>
+        <item>MIRM Mirum Pharmaceuticals, Inc.</item>
+        <item>MIST Milestone Pharmaceuticals Inc.</item>
+        <item>MITK Mitek Systems, Inc.</item>
+        <item>MITO Stealth BioTherapeutics Corp.</item>
+        <item>MJCO Majesco</item>
+        <item>MKD Molecular Data Inc.</item>
+        <item>MKGI Monaker Group, Inc.</item>
+        <item>MKSI MKS Instruments, Inc.</item>
+        <item>MKTX MarketAxess Holdings, Inc.</item>
+        <item>MLAB Mesa Laboratories, Inc.</item>
+        <item>MLCO Melco Resorts &amp; Entertainment Limited</item>
+        <item>MLHR Herman Miller, Inc.</item>
+        <item>MLND Millendo Therapeutics, Inc. </item>
+        <item>MLNX Mellanox Technologies, Ltd.</item>
+        <item>MLVF Malvern Bancorp, Inc.</item>
+        <item>MMAC MMA Capital Holdings, Inc.</item>
+        <item>MMLP Martin Midstream Partners L.P.</item>
+        <item>MMSI Merit Medical Systems, Inc.</item>
+        <item>MMYT MakeMyTrip Limited</item>
+        <item>MNCL Monocle Acquisition Corporation</item>
+        <item>MNCLU Monocle Acquisition Corporation</item>
+        <item>MNCLW Monocle Acquisition Corporation</item>
+        <item>MNDO MIND C.T.I. Ltd.</item>
+        <item>MNKD MannKind Corporation</item>
+        <item>MNLO Menlo Therapeutics Inc.</item>
+        <item>MNOV MediciNova, Inc.</item>
+        <item>MNPR Monopar Therapeutics Inc.</item>
+        <item>MNRO Monro, Inc. </item>
+        <item>MNSB MainStreet Bancshares, Inc.</item>
+        <item>MNST Monster Beverage Corporation</item>
+        <item>MNTA Momenta Pharmaceuticals, Inc.</item>
+        <item>MNTX Manitex International, Inc.</item>
+        <item>MOBL MobileIron, Inc.</item>
+        <item>MOFG MidWestOne Financial Group, Inc.</item>
+        <item>MOGO Mogo Inc.</item>
+        <item>MOHO ECMOHO Limited</item>
+        <item>MOMO Momo Inc.</item>
+        <item>MOR MorphoSys AG</item>
+        <item>MORF Morphic Holding, Inc.</item>
+        <item>MORN Morningstar, Inc.</item>
+        <item>MOSY MoSys, Inc.</item>
+        <item>MOTS Motus GI Holdings, Inc.</item>
+        <item>MOXC Moxian, Inc.</item>
+        <item>MPAA Motorcar Parts of America, Inc.</item>
+        <item>MPB Mid Penn Bancorp</item>
+        <item>MPWR Monolithic Power Systems, Inc.</item>
+        <item>MRAM Everspin Technologies, Inc.</item>
+        <item>MRBK Meridian Corporation</item>
+        <item>MRCC Monroe Capital Corporation</item>
+        <item>MRCCL Monroe Capital Corporation</item>
+        <item>MRCY Mercury Systems Inc</item>
+        <item>MREO Mereo BioPharma Group plc</item>
+        <item>MRIN Marin Software Incorporated</item>
+        <item>MRKR Marker Therapeutics, Inc.</item>
+        <item>MRLN Marlin Business Services Corp.</item>
+        <item>MRNA Moderna, Inc.</item>
+        <item>MRNS Marinus Pharmaceuticals, Inc.</item>
+        <item>MRSN Mersana Therapeutics, Inc.</item>
+        <item>MRTN Marten Transport, Ltd.</item>
+        <item>MRTX Mirati Therapeutics, Inc.</item>
+        <item>MRUS Merus N.V.</item>
+        <item>MRVL Marvell Technology Group Ltd.</item>
+        <item>MSBF MSB Financial Corp.</item>
+        <item>MSBI Midland States Bancorp, Inc.</item>
+        <item>MSEX Middlesex Water Company</item>
+        <item>MSFT Microsoft Corporation</item>
+        <item>MSON MISONIX, Inc.</item>
+        <item>MSTR MicroStrategy Incorporated</item>
+        <item>MSVB Mi</item>
+        <item>MTBC MTBC, Inc.</item>
+        <item>MTBCP MTBC, Inc.</item>
+        <item>MTC MMTec, Inc.</item>
+        <item>MTCH Match Group, Inc.</item>
+        <item>MTEM Molecular Templates, Inc.</item>
+        <item>MTEX Mannatech, Incorporated</item>
+        <item>MTLS Materialise NV</item>
+        <item>MTP Midatech Pharma PLC</item>
+        <item>MTRX Matrix Service Company</item>
+        <item>MTSC MTS Systems Corporation</item>
+        <item>MTSI MACOM Technology Solutions Holdings, Inc.</item>
+        <item>MTSL MER Telemanagement Solutions Ltd.</item>
+        <item>MU Micron Technology, Inc.</item>
+        <item>MUDS Mudrick Capital Acquisition Corporation</item>
+        <item>MUDSU Mudrick Capital Acquisition Corporation</item>
+        <item>MUDSW Mudrick Capital Acquisition Corporation</item>
+        <item>MVBF MVB Financial Corp.</item>
+        <item>MVIS MicroVision, Inc.</item>
+        <item>MWK Mohawk Group Holdings, Inc.</item>
+        <item>MXIM Maxim Integrated Products, Inc.</item>
+        <item>MYFW First Western Financial, Inc.</item>
+        <item>MYGN Myriad Genetics, Inc.</item>
+        <item>MYL Mylan N.V.</item>
+        <item>MYOK MyoKardia, Inc.</item>
+        <item>MYOS MYOS RENS Technology Inc.</item>
+        <item>MYRG MYR Group, Inc.</item>
+        <item>MYSZ My Size, Inc.</item>
+        <item>MYT Urban Tea, Inc.</item>
+        <item>NAII Natural Alternatives International, Inc.</item>
+        <item>NAKD Naked Brand Group Limited</item>
+        <item>NAOV NanoVibronix, Inc.</item>
+        <item>NATH Nathan\'s Famous, Inc.</item>
+        <item>NATI National Instruments Corporation</item>
+        <item>NATR Nature\'s Sunshine Products, Inc.</item>
+        <item>NAVI Navient Corporation</item>
+        <item>NBACU Newborn Acquisition Corp.</item>
+        <item>NBEV New Age Beverages Corporation</item>
+        <item>NBIX Neurocrine Biosciences, Inc.</item>
+        <item>NBL Noble Energy Inc.</item>
+        <item>NBLX Noble Midstream Partners LP</item>
+        <item>NBN Northeast Bank</item>
+        <item>NBRV Nabriva Therapeutics plc</item>
+        <item>NBSE NeuBase Therapeutics, Inc. </item>
+        <item>NBTB NBT Bancorp Inc.</item>
+        <item>NCBS Nicolet Bankshares Inc.</item>
+        <item>NCMI National CineMedia, Inc.</item>
+        <item>NCNA NuCana plc</item>
+        <item>NCSM NCS Multistage Holdings, Inc.</item>
+        <item>NCTY The9 Limited</item>
+        <item>NDAQ Nasdaq, Inc.</item>
+        <item>NDLS Noodles &amp; Company</item>
+        <item>NDRA ENDRA Life Sciences Inc.</item>
+        <item>NDRAW ENDRA Life Sciences Inc.</item>
+        <item>NDSN Nordson Corporation</item>
+        <item>NEBU Nebula Acquisition Corporation</item>
+        <item>NEBUU Nebula Acquisition Corporation</item>
+        <item>NEBUW Nebula Acquisition Corporation</item>
+        <item>NEO NeoGenomics, Inc.</item>
+        <item>NEOG Neogen Corporation</item>
+        <item>NEON Neonode Inc.</item>
+        <item>NEOS Neos Therapeutics, Inc.</item>
+        <item>NEPH Nephros, Inc.</item>
+        <item>NEPT Neptune Wellness Solutions Inc.</item>
+        <item>NERV Minerva Neurosciences, Inc</item>
+        <item>NESR National Energy Services Reunited Corp.</item>
+        <item>NESRW National Energy Services Reunited Corp.</item>
+        <item>NETE Net Element, Inc.</item>
+        <item>NEWA Newater Technology, Inc.</item>
+        <item>NEWT Newtek Business Services Corp.</item>
+        <item>NEWTI Newtek Business Services Corp.</item>
+        <item>NEWTL Newtek Business Services Corp.</item>
+        <item>NEXT NextDecade Corporation</item>
+        <item>NFBK Northfield Bancorp, Inc.</item>
+        <item>NFE New Fortress Energy LLC</item>
+        <item>NFIN Netfin Acquisition Corp.</item>
+        <item>NFINU Netfin Acquisition Corp.</item>
+        <item>NFINW Netfin Acquisition Corp.</item>
+        <item>NFLX Netflix, Inc.</item>
+        <item>NGHC National General Holdings Corp</item>
+        <item>NGHCN National General Holdings Corp</item>
+        <item>NGHCO National General Holdings Corp</item>
+        <item>NGHCP National General Holdings Corp</item>
+        <item>NGHCZ National General Holdings Corp</item>
+        <item>NGM NGM Biopharmaceuticals, Inc.</item>
+        <item>NH NantHealth, Inc.</item>
+        <item>NHLD National Holdings Corporation</item>
+        <item>NHLDW National Holdings Corporation</item>
+        <item>NHTC Natural Health Trends Corp.</item>
+        <item>NICE NICE Ltd</item>
+        <item>NICK Nicholas Financial, Inc.</item>
+        <item>NIU Niu Technologies</item>
+        <item>NK NantKwest, Inc.</item>
+        <item>NKSH National Bankshares, Inc.</item>
+        <item>NKTR Nektar Therapeutics</item>
+        <item>NLOK NortonLifeLock Inc.</item>
+        <item>NLTX Neoleukin Therapeutics, Inc.</item>
+        <item>NMCI Navios Maritime Containers L.P.</item>
+        <item>NMIH NMI Holdings Inc</item>
+        <item>NMRD Nemaura Medical Inc.</item>
+        <item>NMRK Newmark Group, Inc.</item>
+        <item>NNBR NN, Inc.</item>
+        <item>NNDM Nano Dimension Ltd.</item>
+        <item>NODK NI Holdings, Inc.</item>
+        <item>NOVN Novan, Inc.</item>
+        <item>NOVT Novanta Inc.</item>
+        <item>NPA New Providence Acquisition Corp.</item>
+        <item>NPAUU New Providence Acquisition Corp.</item>
+        <item>NPAWW New Providence Acquisition Corp.</item>
+        <item>NRBO NeuroBo Pharmaceuticals, Inc.</item>
+        <item>NRC National Research Corporation</item>
+        <item>NRIM Northrim BanCorp Inc</item>
+        <item>NSEC National Security Group, Inc.</item>
+        <item>NSIT Insight Enterprises, Inc.</item>
+        <item>NSSC NAPCO Security Technologies, Inc.</item>
+        <item>NSTG NanoString Technologies, Inc.</item>
+        <item>NSYS Nortech Systems Incorporated</item>
+        <item>NTAP NetApp, Inc.</item>
+        <item>NTCT NetScout Systems, Inc.</item>
+        <item>NTEC Intec Pharma Ltd.</item>
+        <item>NTES NetEase, Inc.</item>
+        <item>NTGN Neon Therapeutics, Inc.</item>
+        <item>NTGR NETGEAR, Inc.</item>
+        <item>NTIC Northern Technologies International Corporation</item>
+        <item>NTLA Intellia Therapeutics, Inc.</item>
+        <item>NTNX Nutanix, Inc.</item>
+        <item>NTRA Natera, Inc.</item>
+        <item>NTRP Neurotrope, Inc.</item>
+        <item>NTRS Northern Trust Corporation</item>
+        <item>NTRSO Northern Trust Corporation</item>
+        <item>NTUS Natus Medical Incorporated</item>
+        <item>NTWK NETSOL Technologies Inc.</item>
+        <item>NUAN Nuance Communications, Inc.</item>
+        <item>NURO NeuroMetrix, Inc.</item>
+        <item>NUROW NeuroMetrix, Inc.</item>
+        <item>NUVA NuVasive, Inc.</item>
+        <item>NVAX Novavax, Inc.</item>
+        <item>NVCN Neovasc Inc.</item>
+        <item>NVCR NovoCure Limited</item>
+        <item>NVDA NVIDIA Corporation</item>
+        <item>NVEC NVE Corporation</item>
+        <item>NVEE NV5 Global, Inc.</item>
+        <item>NVFY Nova Lifestyle, Inc</item>
+        <item>NVIV InVivo Therapeutics Holdings Corp.</item>
+        <item>NVMI Nova Measuring Instruments Ltd.</item>
+        <item>NVUS Novus Therapeutics, Inc.</item>
+        <item>NWBI Northwest Bancshares, Inc.</item>
+        <item>NWFL Norwood Financial Corp.</item>
+        <item>NWGI Newgioco Group, Inc.</item>
+        <item>NWL Newell Brands Inc.</item>
+        <item>NWLI National Western Life Group, Inc.</item>
+        <item>NWPX Northwest Pipe Company</item>
+        <item>NWS News Corporation</item>
+        <item>NWSA News Corporation</item>
+        <item>NXGN NextGen Healthcare, Inc.</item>
+        <item>NXPI NXP Semiconductors N.V.</item>
+        <item>NXST Nexstar Media Group, Inc.</item>
+        <item>NXTC NextCure, Inc.</item>
+        <item>NXTD NX</item>
+        <item>NYMT New York Mortgage Trust, Inc.</item>
+        <item>NYMTM New York Mortgage Trust, Inc.</item>
+        <item>NYMTN New York Mortgage Trust, Inc.</item>
+        <item>NYMTO New York Mortgage Trust, Inc.</item>
+        <item>NYMTP New York Mortgage Trust, Inc.</item>
+        <item>NYMX Nymox Pharmaceutical Corporation</item>
+        <item>OAS Oasis Petroleum Inc.</item>
+        <item>OBAS Optibase Ltd.</item>
+        <item>OBCI Ocean Bi</item>
+        <item>OBLN Obalon Therapeutics, Inc.</item>
+        <item>OBNK Origin Bancorp, Inc.</item>
+        <item>OBSV ObsEva SA</item>
+        <item>OCC Optical Cable Corporation</item>
+        <item>OCCI OFS Credit Company, Inc.</item>
+        <item>OCCIP OFS Credit Company, Inc.</item>
+        <item>OCFC OceanFirst Financial Corp.</item>
+        <item>OCGN Ocugen, Inc.</item>
+        <item>OCSI Oaktree Strategic Income Corporation</item>
+        <item>OCSL Oaktree Specialty Lending Corporation</item>
+        <item>OCUL Ocular Therapeutix, Inc.</item>
+        <item>ODFL Old Dominion Freight Line, Inc.</item>
+        <item>ODP Office Depot, Inc.</item>
+        <item>ODT Odonate Therapeutics, Inc.</item>
+        <item>OESX Orion Energy Systems, Inc.</item>
+        <item>OFED Oconee Federal Financial Corp.</item>
+        <item>OFIX Orthofix Medical Inc. </item>
+        <item>OFLX Omega Flex, Inc.</item>
+        <item>OFS OFS Capital Corporation</item>
+        <item>OFSSI OFS Capital Corporation</item>
+        <item>OFSSL OFS Capital Corporation</item>
+        <item>OFSSZ OFS Capital Corporation</item>
+        <item>OGI Organigram Holdings Inc.</item>
+        <item>OIIM O2Micro International Limited</item>
+        <item>OKTA Okta, Inc.</item>
+        <item>OLD The Lon</item>
+        <item>OLED Universal Display Corporation</item>
+        <item>OLLI Ollie\'s Bargain Outlet Holdings, Inc.</item>
+        <item>OMAB Grupo Aeroportuario del Centro Norte S.A.B. de C.V.</item>
+        <item>OMCL Omnicell, Inc.</item>
+        <item>OMER Omeros Corporation</item>
+        <item>OMEX Odyssey Marine Exploration, Inc.</item>
+        <item>OMP Oasis Midstream Partners LP</item>
+        <item>ON ON Semiconductor Corporation</item>
+        <item>ONB Old National Bancorp</item>
+        <item>ONCS OncoSec Medical Incorporated</item>
+        <item>ONCT Oncternal Therapeutics, Inc. </item>
+        <item>ONCY Oncolytics Biotech Inc.</item>
+        <item>ONEM 1Life Healthcare, Inc.</item>
+        <item>ONEW OneWater Marine Inc.</item>
+        <item>ONTX Onconova Therapeutics, Inc.</item>
+        <item>ONTXW Onconova Therapeutics, Inc.</item>
+        <item>ONVO Organovo Holdings, Inc.</item>
+        <item>OPB Opus Bank</item>
+        <item>OPBK OP Bancorp</item>
+        <item>OPCH Option Care Health, Inc.</item>
+        <item>OPES Opes Acquisition Corp.</item>
+        <item>OPESU Opes Acquisition Corp.</item>
+        <item>OPESW Opes Acquisition Corp.</item>
+        <item>OPGN OpGen, Inc.</item>
+        <item>OPGNW OpGen, Inc.</item>
+        <item>OPHC OptimumBank Holdings, Inc.</item>
+        <item>OPI Office Properties Income Trust</item>
+        <item>OPINI Office Properties Income Trust</item>
+        <item>OPK Opko Health, Inc.</item>
+        <item>OPNT Opiant Pharmaceuticals, Inc.</item>
+        <item>OPOF Old Point Financial Corporation</item>
+        <item>OPRA Opera Limited</item>
+        <item>OPRT Oportun Financial Corporation</item>
+        <item>OPRX OptimizeRx Corporation</item>
+        <item>OPTN OptiNose, Inc.</item>
+        <item>OPTT Ocean Power Technologies, Inc.</item>
+        <item>ORBC ORBCOMM Inc.</item>
+        <item>ORGO Organogenesis Holdings Inc. </item>
+        <item>ORGS Orgenesis Inc.</item>
+        <item>ORLY O\'Reilly Automotive, Inc.</item>
+        <item>ORMP Oramed Pharmaceuticals Inc.</item>
+        <item>ORRF Orrstown Financial Services Inc</item>
+        <item>ORSN Orisun Acquisition Corp.</item>
+        <item>ORSNR Orisun Acquisition Corp.</item>
+        <item>ORSNU Orisun Acquisition Corp.</item>
+        <item>ORSNW Orisun Acquisition Corp.</item>
+        <item>ORTX Orchard Therapeutics plc</item>
+        <item>OSBC Old Second Bancorp, Inc.</item>
+        <item>OSIS OSI Systems, Inc.</item>
+        <item>OSMT Osmotica Pharmaceuticals plc</item>
+        <item>OSN Ossen Innovation Co., Ltd.</item>
+        <item>OSPN OneSpan Inc.</item>
+        <item>OSS One Stop Systems, Inc.</item>
+        <item>OSTK Overstock.com, Inc.</item>
+        <item>OSUR OraSure Technologies, Inc.</item>
+        <item>OSW OneSpaWorld Holdings Limited</item>
+        <item>OTEL Otelco Inc.</item>
+        <item>OTEX Open Text Corporation</item>
+        <item>OTIC Otonomy, Inc.</item>
+        <item>OTLK Outlook Therapeutics, Inc.</item>
+        <item>OTLKW Outlook Therapeutics, Inc.</item>
+        <item>OTTR Otter Tail Corporation</item>
+        <item>OTTW Ottawa Bancorp, Inc.</item>
+        <item>OVBC Ohio Valley Banc Corp.</item>
+        <item>OVID Ovid Therapeutics Inc.</item>
+        <item>OVLY Oak Valley Bancorp (CA)</item>
+        <item>OXBR Oxbridge Re Holdings Limited</item>
+        <item>OXBRW Oxbridge Re Holdings Limited</item>
+        <item>OXFD Oxford Immunotec Global PLC</item>
+        <item>OXLC Oxford Lane Capital Corp.</item>
+        <item>OXLCM Oxford Lane Capital Corp.</item>
+        <item>OXLCO Oxford Lane Capital Corp.</item>
+        <item>OXLCP Oxford Lane Capital Corp.</item>
+        <item>OXSQ Oxford Square Capital Corp.</item>
+        <item>OXSQL Oxford Square Capital Corp.</item>
+        <item>OXSQZ Oxford Square Capital Corp.</item>
+        <item>OYST Oyster Point Pharma, Inc.</item>
+        <item>OZK Bank OZK</item>
+        <item>PAAC Proficient Alpha Acquisition Corp.</item>
+        <item>PAACR Proficient Alpha Acquisition Corp.</item>
+        <item>PAACU Proficient Alpha Acquisition Corp.</item>
+        <item>PAACW Proficient Alpha Acquisition Corp.</item>
+        <item>PAAS Pan American Silver Corp.</item>
+        <item>PACB Pacific Biosciences of California, Inc.</item>
+        <item>PACQ Pure Acquisition Corp.</item>
+        <item>PACQU Pure Acquisition Corp.</item>
+        <item>PACQW Pure Acquisition Corp.</item>
+        <item>PACW PacWest Bancorp</item>
+        <item>PAE PAE Incorporated</item>
+        <item>PAEWW PAE Incorporated</item>
+        <item>PAHC Phibro Animal Health Corporation</item>
+        <item>PANL Pangaea Logistics Solutions Ltd.</item>
+        <item>PASG Passage Bio, Inc.</item>
+        <item>PATI Patriot Transportation Holding, Inc.</item>
+        <item>PATK Patrick Industries, Inc.</item>
+        <item>PAVM PAVmed Inc.</item>
+        <item>PAVMW PAVmed Inc.</item>
+        <item>PAVMZ PAVmed Inc.</item>
+        <item>PAYS Paysign, Inc.</item>
+        <item>PAYX Paychex, Inc.</item>
+        <item>PBBI PB Bancorp, Inc.</item>
+        <item>PBCT People\'s United Financial, Inc.</item>
+        <item>PBCTP People\'s United Financial, Inc.</item>
+        <item>PBFS Pioneer Bancorp, Inc.</item>
+        <item>PBHC Pathfinder Bancorp, Inc.</item>
+        <item>PBIP Prudential Bancorp, Inc.</item>
+        <item>PBPB Potbelly Corporation</item>
+        <item>PBTS Powerbridge Technologies Co., Ltd.</item>
+        <item>PBYI Puma Biotechnology Inc</item>
+        <item>PCAR PACCAR Inc.</item>
+        <item>PCB PCB Bancorp</item>
+        <item>PCH PotlatchDeltic Corporation</item>
+        <item>PCOM Points International, Ltd.</item>
+        <item>PCRX Pacira BioSciences, Inc.</item>
+        <item>PCSB PCSB Financial Corporation</item>
+        <item>PCTI P</item>
+        <item>PCTY Paylocity Holding Corporation</item>
+        <item>PCYG Park City Group, Inc.</item>
+        <item>PCYO Pure Cycle Corporation</item>
+        <item>PDBC Invesco Optimum Yield Diversified Commodity Strategy No </item>
+        <item>PDCE PDC Energy, Inc.</item>
+        <item>PDCO Patterson Companies, Inc.</item>
+        <item>PDD Pinduoduo Inc.</item>
+        <item>PDEV Principal International Mult</item>
+        <item>PDEX Pr</item>
+        <item>PDFS PDF Solutions, Inc.</item>
+        <item>PDLB PDL Community Bancorp</item>
+        <item>PDLI PDL BioPharma, Inc.</item>
+        <item>PDSB PDS Biotechnology Corporation</item>
+        <item>PEBK Peoples Bancorp of North Carolina, Inc.</item>
+        <item>PEBO Peoples Bancorp Inc.</item>
+        <item>PECK The Peck Company Holdings, Inc.</item>
+        <item>PEGA Pegasystems Inc.</item>
+        <item>PEIX Pacific Ethanol, Inc.</item>
+        <item>PENN Penn National Gaming, Inc.</item>
+        <item>PEP PepsiCo, Inc.</item>
+        <item>PERI Perion Network Ltd</item>
+        <item>PESI Perm</item>
+        <item>PETQ PetIQ, Inc.</item>
+        <item>PETS PetMed Express, Inc.</item>
+        <item>PETZ TDH Holdings, Inc.</item>
+        <item>PFBC Preferred Bank</item>
+        <item>PFBI Premier Financial Bancorp, Inc.</item>
+        <item>PFG Principal Financial Group Inc</item>
+        <item>PFHD Professional Holding Corp.</item>
+        <item>PFIE Profire Energy, Inc.</item>
+        <item>PFIN P &amp; F Industries, Inc.</item>
+        <item>PFIS Peoples Financial Services Corp. </item>
+        <item>PFLT PennantPark Floating Rate Capital Ltd.</item>
+        <item>PFMT Performant Financial Corporation</item>
+        <item>PFPT Proofpoint, Inc.</item>
+        <item>PFSW PFSweb, Inc.</item>
+        <item>PGC Peapac</item>
+        <item>PGEN Precigen, Inc.</item>
+        <item>PGNX Progenics Pharmaceuticals Inc.</item>
+        <item>PGNY Progyny, Inc.</item>
+        <item>PHAS PhaseBio Pharmaceuticals, Inc.</item>
+        <item>PHAT Phathom Pharmaceuticals, Inc.</item>
+        <item>PHCF Puhui Wealth Investment Management Co., Ltd. </item>
+        <item>PHIO Phio Pharmaceuticals Corp.</item>
+        <item>PHIOW Phio Pharmaceuticals Corp.</item>
+        <item>PHUN Phunware, Inc.</item>
+        <item>PHUNW Phunware, Inc.</item>
+        <item>PI Impinj, Inc.</item>
+        <item>PICO PICO Holdings Inc.</item>
+        <item>PIH 1347 Property Insurance Holdings, Inc.</item>
+        <item>PIHPP 1347 Property Insurance Holdings, Inc.</item>
+        <item>PINC Premier, Inc.</item>
+        <item>PIRS Pieris Pharmaceuticals, Inc.</item>
+        <item>PIXY ShiftPixy, Inc.</item>
+        <item>PKBK Parke Bancorp, Inc.</item>
+        <item>PKOH Par</item>
+        <item>PLAB Photronics, Inc.</item>
+        <item>PLAY Dave &amp; Buster\'s Entertainment, Inc.</item>
+        <item>PLBC Plumas Bancorp</item>
+        <item>PLC Principal U.S. Larg</item>
+        <item>PLCE Children\'s Place, Inc. (The)</item>
+        <item>PLIN China Xiangtai Food Co., Ltd.</item>
+        <item>PLL Piedmont Lithium Limited</item>
+        <item>PLMR Palomar Holdings, Inc.</item>
+        <item>PLPC Preformed Line Products Company</item>
+        <item>PLSE Pulse Biosciences, Inc</item>
+        <item>PLUG Plug Power, Inc.</item>
+        <item>PLUS ePlus inc.</item>
+        <item>PLW Invesco </item>
+        <item>PLXP PLx Pharma Inc.</item>
+        <item>PLXS Plexus Corp.</item>
+        <item>PLYA Playa Hotels &amp; Resorts N.V.</item>
+        <item>PMBC Pacific Mercantile Bancorp</item>
+        <item>PMD Psychemedics Corporation</item>
+        <item>PME Pingtan Marine Enterprise Ltd.</item>
+        <item>PNBK Patriot National Bancorp Inc.</item>
+        <item>PNFP Pinnacle Financial Partners, Inc.</item>
+        <item>PNNT PennantPark Investment Corporation</item>
+        <item>PNNTG PennantPark Investment Corporation</item>
+        <item>PNRG PrimeEnergy Resources Corporation</item>
+        <item>PNTG The Pennant Group, Inc.</item>
+        <item>POAI Predictive Oncology Inc.</item>
+        <item>PODD Insulet Corporation</item>
+        <item>POLA Polar Power, Inc.</item>
+        <item>POOL Pool Corporation</item>
+        <item>POPE Pope Resources</item>
+        <item>POWI Power Integrations, Inc.</item>
+        <item>POWL Powell Industries, Inc.</item>
+        <item>PPBI Pacific Premier Bancorp Inc</item>
+        <item>PPC Pilgrim\'s Pride Corporation</item>
+        <item>PPD PPD, Inc.</item>
+        <item>PPHI Positive Physicians Holdings, Inc.</item>
+        <item>PPIH Perm</item>
+        <item>PPSI Pioneer Power Solutions, Inc.</item>
+        <item>PRAA PRA Group, Inc.</item>
+        <item>PRAH PRA Health Sciences, Inc.</item>
+        <item>PRCP Perceptron, Inc.</item>
+        <item>PRDO Perdoceo Education Corporation</item>
+        <item>PRFT Perficient, Inc.</item>
+        <item>PRFZ Invesco FTSE RAFI US 1500 Smal</item>
+        <item>PRGS Progress Software Corporation</item>
+        <item>PRGX PRGX Global, Inc.</item>
+        <item>PRIM Primoris Services Corporation</item>
+        <item>PRNB Principia Biopharma Inc.</item>
+        <item>PROF Profound Medical Corp.</item>
+        <item>PROV Provident Financial Holdings, Inc.</item>
+        <item>PRPH ProPhase Labs, Inc.</item>
+        <item>PRPL Purple Innovation, Inc.</item>
+        <item>PRPO Precipio, Inc.</item>
+        <item>PRQR ProQR Therapeutics N.V.</item>
+        <item>PRSC The Providence Service Corporation</item>
+        <item>PRTA Prothena Corporation plc</item>
+        <item>PRTH Priority Technology Holdings, Inc.</item>
+        <item>PRTK Paratek Pharmaceuticals, Inc. </item>
+        <item>PRTS U.S. Auto Parts Network, Inc.</item>
+        <item>PRVB Provention Bio, Inc.</item>
+        <item>PRVL Prevail Therapeutics Inc.</item>
+        <item>PS Pluralsight, Inc.</item>
+        <item>PSC Principal U.S. Smal</item>
+        <item>PSEC Prospect Capital Corporation</item>
+        <item>PSHG Performance Shipping Inc.</item>
+        <item>PSM Principal U.S. Smal</item>
+        <item>PSMT PriceSmart, Inc.</item>
+        <item>PSNL Personalis, Inc.</item>
+        <item>PSTI Pluristem Therapeutics, Inc.</item>
+        <item>PSTV PLUS THERAPEUTICS, Inc.</item>
+        <item>PSTVZ PLUS THERAPEUTICS, Inc.</item>
+        <item>PT Pintec Technology Holdings Limited</item>
+        <item>PTAC PropTech Acquisition Corporation</item>
+        <item>PTACU PropTech Acquisition Corporation</item>
+        <item>PTACW PropTech Acquisition Corporation</item>
+        <item>PTC PTC Inc.</item>
+        <item>PTCT PTC Therapeutics, Inc.</item>
+        <item>PTE PolarityTE, Inc.</item>
+        <item>PTEN Patterso</item>
+        <item>PTGX Protagonist Therapeutics, Inc.</item>
+        <item>PTI Proteostasis Therapeutics, Inc.</item>
+        <item>PTLA Portola Pharmaceuticals, Inc.</item>
+        <item>PTMN Portman Ridge Finance Corporation</item>
+        <item>PTNR Partner Communications Company Ltd.</item>
+        <item>PTON Peloton Interactive, Inc.</item>
+        <item>PTSI P.A.M. Transportation Services, Inc.</item>
+        <item>PTVCA Protective Insurance Corporation</item>
+        <item>PTVCB Protective Insurance Corporation</item>
+        <item>PUB People\'s Utah Bancorp</item>
+        <item>PULM Pulmatrix, Inc.</item>
+        <item>PUYI Puyi Inc.</item>
+        <item>PVAC Penn Virginia Corporation</item>
+        <item>PVBC Provident Bancorp, Inc.</item>
+        <item>PWFL PowerFleet, Inc.</item>
+        <item>PWOD Penns Woods Bancorp, Inc.</item>
+        <item>PXLW Pixelworks, Inc.</item>
+        <item>PXS Pyxis Tankers Inc.</item>
+        <item>PYPL PayPal Holdings, Inc.</item>
+        <item>PZZA Papa John\'s International, Inc.</item>
+        <item>QADA QAD Inc.</item>
+        <item>QADB QAD Inc.</item>
+        <item>QBAK Qualstar Corporation</item>
+        <item>QCOM QUALCOMM Incorporated</item>
+        <item>QCRH QCR Holdings, Inc.</item>
+        <item>QDEL Quidel Corporation</item>
+        <item>QFIN 360 Finance, Inc.</item>
+        <item>QIWI QIWI plc</item>
+        <item>QK Q&amp;K International Group Limited</item>
+        <item>QLYS Qualys, Inc.</item>
+        <item>QMCO Quantum Corporation</item>
+        <item>QNST QuinStreet, Inc.</item>
+        <item>QQEW First Trust NASDA</item>
+        <item>QQQX Nuveen NASDAQ 100 Dynamic Overwrite Fund</item>
+        <item>QQXT First Trust NASDA</item>
+        <item>QRHC Quest Resource Holding Corporation</item>
+        <item>QRTEA Qurate Retail, Inc.</item>
+        <item>QRTEB Qurate Retail, Inc.</item>
+        <item>QRVO Qorvo, Inc.</item>
+        <item>QTEC First Trust NASDA</item>
+        <item>QTNT Quotient Limited</item>
+        <item>QTRX Quanterix Corporation</item>
+        <item>QTT Qutoutiao Inc.</item>
+        <item>QUIK QuickLogic Corporation</item>
+        <item>QUMU Qumu Corporation</item>
+        <item>QURE uniQure N.V.</item>
+        <item>QYLD Global X NASDA</item>
+        <item>RADA RADA Electronic Industries Ltd.</item>
+        <item>RAIL Freightcar America, Inc.</item>
+        <item>RAND Rand Capital Corporation</item>
+        <item>RAPT RAPT Therapeutics, Inc.</item>
+        <item>RARE Ultragenyx Pharmaceutical Inc.</item>
+        <item>RAVE Rave Restaurant Group, Inc.</item>
+        <item>RAVN Raven Industries, Inc.</item>
+        <item>RBB RBB Bancorp</item>
+        <item>RBBN Ribbon Communications Inc. </item>
+        <item>RBCAA Republic Bancorp, Inc.</item>
+        <item>RBCN Rubicon Technology, Inc.</item>
+        <item>RBKB Rhinebeck Bancorp, Inc.</item>
+        <item>RBNC Reliant Bancorp, Inc.</item>
+        <item>RBZ Reebonz Holding Limited</item>
+        <item>RCEL Avita Medical Limited</item>
+        <item>RCII Ren</item>
+        <item>RCKT Rocket Pharmaceuticals, Inc.</item>
+        <item>RCKY Rocky Brands, Inc.</item>
+        <item>RCM R1 RCM Inc.</item>
+        <item>RCMT RCM Technologies, Inc.</item>
+        <item>RCON Recon Technology, Ltd.</item>
+        <item>RDCM Radcom Ltd.</item>
+        <item>RDFN Redfin Corporation</item>
+        <item>RDHL Redhill Biopharma Ltd.</item>
+        <item>RDI Reading International Inc</item>
+        <item>RDIB Reading International Inc</item>
+        <item>RDNT RadNet, Inc.</item>
+        <item>RDUS Radius Health, Inc.</item>
+        <item>RDVT Red Violet, Inc.</item>
+        <item>RDWR Radware Ltd.</item>
+        <item>REAL The RealReal, Inc.</item>
+        <item>REDU RISE Education Cayman Ltd</item>
+        <item>REED Reeds, Inc.</item>
+        <item>REFR Research Frontiers Incorporated</item>
+        <item>REG Regency Centers Corporation</item>
+        <item>REGI Renewable Energy Group, Inc.</item>
+        <item>REGN Regeneron Pharmaceuticals, Inc.</item>
+        <item>REKR Rekor Systems, Inc.</item>
+        <item>RELL Richardson Electronics, Ltd.</item>
+        <item>RELV Reliv\' International, Inc.</item>
+        <item>REPH Recro Pharma, Inc.</item>
+        <item>REPL Replimune Group, Inc.</item>
+        <item>RESN Resonant Inc.</item>
+        <item>RETA Reata Pharmaceuticals, Inc.</item>
+        <item>RETO ReTo Ec</item>
+        <item>REXN Rexahn Pharmaceuticals, Inc.</item>
+        <item>REYN Reynolds Consumer Products Inc.</item>
+        <item>RFIL RF Industries, Ltd.</item>
+        <item>RGCO RGC Resources Inc.</item>
+        <item>RGEN Repligen Corporation</item>
+        <item>RGLD Royal Gold, Inc.</item>
+        <item>RGLS Regulus Therapeutics Inc.</item>
+        <item>RGNX REGENXBIO Inc.</item>
+        <item>RGP Resources Connection, Inc.</item>
+        <item>RIBT RiceBran Technologies</item>
+        <item>RICK RCI Hospitality Holdings, Inc.</item>
+        <item>RIGL Rigel Pharmaceuticals, Inc.</item>
+        <item>RILY B. Riley Financial, Inc.</item>
+        <item>RILYG B. Riley Financial, Inc.</item>
+        <item>RILYH B. Riley Financial, Inc.</item>
+        <item>RILYI B. Riley Financial, Inc.</item>
+        <item>RILYM B. Riley Financial, Inc.</item>
+        <item>RILYN B. Riley Financial, Inc.</item>
+        <item>RILYO B. Riley Financial, Inc.</item>
+        <item>RILYP B. Riley Financial, Inc.</item>
+        <item>RILYZ B. Riley Financial, Inc.</item>
+        <item>RIOT Riot Blockchain, Inc</item>
+        <item>RIVE Riverview Financial Corporation</item>
+        <item>RKDA Arcadia Biosciences, Inc.</item>
+        <item>RLMD Relmada Therapeutics, Inc.</item>
+        <item>RMBI Richmond Mutual Bancorporation, Inc.</item>
+        <item>RMBL RumbleOn, Inc.</item>
+        <item>RMBS Rambus, Inc.</item>
+        <item>RMCF Rocky Mountain Chocolate Factory, Inc.</item>
+        <item>RMNI Rimini Street, Inc.</item>
+        <item>RMR The RMR Group Inc.</item>
+        <item>RMTI Rockwell Medical, Inc.</item>
+        <item>RNDB Randolph Bancorp, Inc.</item>
+        <item>RNET RigNet, Inc.</item>
+        <item>RNST Renasant Corporation</item>
+        <item>RNWK RealNetworks, Inc.</item>
+        <item>ROAD Construction Partners, Inc.</item>
+        <item>ROCK Gibraltar Industries, Inc.</item>
+        <item>ROIC Retail Opportunity Investments Corp.</item>
+        <item>ROKU Roku, Inc.</item>
+        <item>ROLL RBC Bearings Incorporated</item>
+        <item>ROSE Rosehill Resources Inc.</item>
+        <item>ROSEU Rosehill Resources Inc.</item>
+        <item>ROSEW Rosehill Resources Inc.</item>
+        <item>ROST Ross Stores, Inc.</item>
+        <item>RP RealPage, Inc.</item>
+        <item>RPAY Repay Holdings Corporation</item>
+        <item>RPD Rapid7, Inc.</item>
+        <item>RRBI Red River Bancshares, Inc.</item>
+        <item>RRGB Red Robin Gourmet Burgers, Inc.</item>
+        <item>RRR Red Rock Resorts, Inc.</item>
+        <item>RSSS Research Solutions, Inc</item>
+        <item>RTIX RTI Surgical Holdings, Inc.</item>
+        <item>RTLR Rattler Midstream LP</item>
+        <item>RTRX Retrophin, Inc.</item>
+        <item>RTTR Ritter Pharmaceuticals, Inc.</item>
+        <item>RUBY Rubius Therapeutics, Inc.</item>
+        <item>RUHN Ruhnn Holding Limited</item>
+        <item>RUN Sunrun Inc.</item>
+        <item>RUSHA Rush Enterprises, Inc.</item>
+        <item>RUSHB Rush Enterprises, Inc.</item>
+        <item>RUTH Ruth\'s Hospitality Group, Inc.</item>
+        <item>RVMD Revolution Medicines, Inc.</item>
+        <item>RVNC Revance Therapeutics, Inc.</item>
+        <item>RVSB Riverview Bancorp Inc</item>
+        <item>RWLK ReWalk Robotics Ltd.</item>
+        <item>RYAAY Ryanair Holdings plc</item>
+        <item>RYTM Rhythm Pharmaceuticals, Inc.</item>
+        <item>SABR Sabre Corporation</item>
+        <item>SAEX SAExploration Holdings, Inc.</item>
+        <item>SAFM Sanderson Farms, Inc.</item>
+        <item>SAFT Safety Insurance Group, Inc.</item>
+        <item>SAGE Sage Therapeutics, Inc.</item>
+        <item>SAIA Saia, Inc.</item>
+        <item>SAL Salisbury Bancorp, Inc.</item>
+        <item>SALM Salem Media Group, Inc.</item>
+        <item>SAMA Schultze Special Purpose Acquisition Corp.</item>
+        <item>SAMAU Schultze Special Purpose Acquisition Corp.</item>
+        <item>SAMAW Schultze Special Purpose Acquisition Corp.</item>
+        <item>SAMG Silvercrest Asset Management Group Inc.</item>
+        <item>SANM Sanmina Corporation</item>
+        <item>SANW S&amp;W Seed Company</item>
+        <item>SAQN Software Acquisition Group Inc.</item>
+        <item>SAQNU Software Acquisition Group Inc.</item>
+        <item>SAQNW Software Acquisition Group Inc.</item>
+        <item>SASR Sandy Spring Bancorp, Inc.</item>
+        <item>SATS EchoStar Corporation</item>
+        <item>SAVA Cassava Sciences, Inc.</item>
+        <item>SBAC SBA Communications Corporation</item>
+        <item>SBBP Strongbridge Biopharma plc</item>
+        <item>SBBX SB One Bancorp</item>
+        <item>SBCF Seacoast Banking Corporation of Florida</item>
+        <item>SBFG SB Financial Group, Inc.</item>
+        <item>SBGI Sinclair Broadcast Group, Inc.</item>
+        <item>SBLK Star Bulk Carriers Corp.</item>
+        <item>SBLKZ Star Bulk Carriers Corp.</item>
+        <item>SBNY Signature Bank</item>
+        <item>SBPH Spring Bank Pharmaceuticals, Inc.</item>
+        <item>SBRA Sabra Health Care REIT, Inc.</item>
+        <item>SBSI Southside Bancshares, Inc.</item>
+        <item>SBT Sterling Bancorp, Inc.</item>
+        <item>SBUX Starbucks Corporation</item>
+        <item>SCHL Scholastic Corporation</item>
+        <item>SCHN Schnitzer Steel Industries, Inc.</item>
+        <item>SCKT Socket Mobile, Inc.</item>
+        <item>SCON Superconductor Technologies Inc.</item>
+        <item>SCOR comScore, Inc.</item>
+        <item>SCPH scPharmaceuticals Inc.</item>
+        <item>SCPL SciPlay Corporation</item>
+        <item>SCSC ScanSource, Inc.</item>
+        <item>SCVL Shoe Carnival, Inc.</item>
+        <item>SCWX SecureWorks Corp.</item>
+        <item>SCYX SCYNEXIS, Inc.</item>
+        <item>SCZ iShares MSCI EAFE Smal</item>
+        <item>SDC SmileDirectClub, Inc.</item>
+        <item>SDGR Schrodinger, Inc.</item>
+        <item>SEAC SeaChange International, Inc.</item>
+        <item>SECO Secoo Holding Limited</item>
+        <item>SEDG SolarEdge Technologies, Inc.</item>
+        <item>SEED Origin Agritech Limited</item>
+        <item>SEEL Seelos Therapeutics, Inc.</item>
+        <item>SEIC SEI Investments Company</item>
+        <item>SELB Selecta Biosciences, Inc.</item>
+        <item>SELF Global Self Storage, Inc.</item>
+        <item>SENEA Seneca Foods Corp.</item>
+        <item>SENEB Seneca Foods Corp.</item>
+        <item>SES Synthesis Energy Systems, Inc.</item>
+        <item>SESN Sesen Bio, Inc.</item>
+        <item>SFBC Sound Financial Bancorp, Inc.</item>
+        <item>SFBS ServisFirst Bancshares, Inc.</item>
+        <item>SFET Saf</item>
+        <item>SFIX Stitch Fix, Inc.</item>
+        <item>SFM Sprouts Farmers Market, Inc.</item>
+        <item>SFNC Simmons First National Corporation</item>
+        <item>SFST Southern First Bancshares, Inc.</item>
+        <item>SG Sirius International Insurance Group, Ltd.</item>
+        <item>SGA Saga Communications, Inc.</item>
+        <item>SGBX SG Blocks, Inc.</item>
+        <item>SGC Superior Group of Companies, Inc.</item>
+        <item>SGEN Seattle Genetics, Inc.</item>
+        <item>SGH SMART Global Holdings, Inc.</item>
+        <item>SGLB Sigma Labs, Inc.</item>
+        <item>SGLBW Sigma Labs, Inc.</item>
+        <item>SGMA SigmaTron International, Inc.</item>
+        <item>SGMO Sangamo Therapeutics, Inc.</item>
+        <item>SGMS Scientific Games Corp</item>
+        <item>SGOC SGOCO Group, Ltd</item>
+        <item>SGRP SPAR Group, Inc.</item>
+        <item>SGRY Surgery Partners, Inc.</item>
+        <item>SHBI Shore Bancshares Inc</item>
+        <item>SHEN Shenandoah Telecommunications Co</item>
+        <item>SHIP Seanergy Maritime Holdings Corp</item>
+        <item>SHIPW Seanergy Maritime Holdings Corp</item>
+        <item>SHIPZ Seanergy Maritime Holdings Corp</item>
+        <item>SHLO Shiloh Industries, Inc.</item>
+        <item>SHOO Steven Madden, Ltd.</item>
+        <item>SHSP SharpSpring, Inc.</item>
+        <item>SHY iShares </item>
+        <item>SIBN S</item>
+        <item>SIC Select Interior Concepts, Inc.</item>
+        <item>SIEB Siebert Financial Corp.</item>
+        <item>SIEN Sientra, Inc.</item>
+        <item>SIFY Sify Technologies Limited</item>
+        <item>SIGA SIGA Technologies Inc.</item>
+        <item>SIGI Selective Insurance Group, Inc.</item>
+        <item>SILC Silicom Ltd</item>
+        <item>SILK Silk Road Medical, Inc.</item>
+        <item>SIMO Silicon Motion Technology Corporation</item>
+        <item>SINA Sina Corporation</item>
+        <item>SINO Sin</item>
+        <item>SINT SiNtx Technologies, Inc.</item>
+        <item>SIRI Sirius XM Holdings Inc.</item>
+        <item>SITM SiTime Corporation</item>
+        <item>SIVB SVB Financial Group</item>
+        <item>SIVBP SVB Financial Group</item>
+        <item>SKOR FlexShares Credi</item>
+        <item>SKYS Sky Solar Holdings, Ltd.</item>
+        <item>SKYW SkyWest, Inc.</item>
+        <item>SLAB Silicon Laboratories, Inc.</item>
+        <item>SLCT Select Bancorp, Inc.</item>
+        <item>SLDB Solid Biosciences Inc.</item>
+        <item>SLGG Super League Gaming, Inc.</item>
+        <item>SLGL So</item>
+        <item>SLGN Silgan Holdings Inc.</item>
+        <item>SLM SLM Corporation</item>
+        <item>SLMBP SLM Corporation</item>
+        <item>SLNO Soleno Therapeutics, Inc.</item>
+        <item>SLP Simulations Plus, Inc.</item>
+        <item>SLQD iShares </item>
+        <item>SLRC Solar Capital Ltd.</item>
+        <item>SLRX Salarius Pharmaceuticals, Inc.</item>
+        <item>SLS SELLAS Life Sciences Group, Inc. </item>
+        <item>SLVO Credit Suisse AG</item>
+        <item>SMBC Southern Missouri Bancorp, Inc.</item>
+        <item>SMBK SmartFinancial, Inc.</item>
+        <item>SMCI Super Micro Computer, Inc.</item>
+        <item>SMED Sharps Compliance Corp.</item>
+        <item>SMIT Schmitt Industries, Inc.</item>
+        <item>SMMC South Mountain Merger Corp.</item>
+        <item>SMMCU South Mountain Merger Corp.</item>
+        <item>SMMCW South Mountain Merger Corp.</item>
+        <item>SMMF Summit Financial Group, Inc.</item>
+        <item>SMMT Summit Therapeutics plc</item>
+        <item>SMPL The Simply Good Foods Company</item>
+        <item>SMRT Stein Mart, Inc.</item>
+        <item>SMSI Smith Micro Software, Inc.</item>
+        <item>SMTC Semtech Corporation</item>
+        <item>SMTX SMTC Corporation</item>
+        <item>SNBR Sleep Number Corporation</item>
+        <item>SNCA Seneca Biopharma, Inc.</item>
+        <item>SNCR Synchronoss Technologies, Inc.</item>
+        <item>SND Smart Sand, Inc.</item>
+        <item>SNDE Sundance Energy Inc. </item>
+        <item>SNDL Sundial Growers Inc.</item>
+        <item>SNDX Syndax Pharmaceuticals, Inc.</item>
+        <item>SNES SenesTech, Inc.</item>
+        <item>SNFCA Security National Financial Corporation</item>
+        <item>SNGX Soligenix, Inc.</item>
+        <item>SNGXW Soligenix, Inc.</item>
+        <item>SNOA Sonoma Pharmaceuticals, Inc.</item>
+        <item>SNPS Synopsys, Inc.</item>
+        <item>SNSS Sunesis Pharmaceuticals, Inc.</item>
+        <item>SNY Sanofi</item>
+        <item>SOHO Sotherly Hotels Inc.</item>
+        <item>SOHOB Sotherly Hotels Inc.</item>
+        <item>SOHON Sotherly Hotels Inc.</item>
+        <item>SOHOO Sotherly Hotels Inc.</item>
+        <item>SOHU Sohu.com Limited </item>
+        <item>SOLO Electrameccanica Vehicles Corp. Ltd.</item>
+        <item>SOLOW Electrameccanica Vehicles Corp. Ltd.</item>
+        <item>SOLY Soliton, Inc.</item>
+        <item>SONA Southern National Bancorp of Virginia, Inc.</item>
+        <item>SONG Akazoo S.A.</item>
+        <item>SONGW Akazoo S.A.</item>
+        <item>SONM Sonim Technologies, Inc.</item>
+        <item>SONN Sonnet BioTherapeutics Holdings, Inc.</item>
+        <item>SONO Sonos, Inc.</item>
+        <item>SORL SORL Auto Parts, Inc.</item>
+        <item>SP SP Plus Corporation</item>
+        <item>SPAR Spartan Motors, Inc.</item>
+        <item>SPCB SuperCom, Ltd.</item>
+        <item>SPFI South Plains Financial, Inc.</item>
+        <item>SPI SPI Energy Co., Ltd.</item>
+        <item>SPKE Spark Energy, Inc.</item>
+        <item>SPKEP Spark Energy, Inc.</item>
+        <item>SPLK Splunk Inc.</item>
+        <item>SPNE SeaSpine Holdings Corporation</item>
+        <item>SPNS Sapiens International Corporation N.V.</item>
+        <item>SPOK Spok Holdings, Inc.</item>
+        <item>SPPI Spectrum Pharmaceuticals, Inc.</item>
+        <item>SPRO Spero Therapeutics, Inc.</item>
+        <item>SPRT Support.com, Inc.</item>
+        <item>SPSC SPS Commerce, Inc.</item>
+        <item>SPT Sprout Social, Inc</item>
+        <item>SPTN SpartanNash Company</item>
+        <item>SPWH Sportsman\'s Warehouse Holdings, Inc.</item>
+        <item>SPWR SunPower Corporation</item>
+        <item>SQBG Sequential Brands Group, Inc.</item>
+        <item>SQLV Legg Mason Smal</item>
+        <item>SRAC Stable Road Acquisition Corp.</item>
+        <item>SRACU Stable Road Acquisition Corp.</item>
+        <item>SRACW Stable Road Acquisition Corp.</item>
+        <item>SRAX SRAX, Inc.</item>
+        <item>SRCE 1st Source Corporation</item>
+        <item>SRCL Stericycle, Inc.</item>
+        <item>SRDX Surmodics, Inc.</item>
+        <item>SREV ServiceSource International, Inc.</item>
+        <item>SRNE Sorrento Therapeutics, Inc.</item>
+        <item>SRPT Sarepta Therapeutics, Inc.</item>
+        <item>SRRA Sierra Oncology, Inc.</item>
+        <item>SRRK Scholar Rock Holding Corporation</item>
+        <item>SRTS Sensus Healthcare, Inc.</item>
+        <item>SRTSW Sensus Healthcare, Inc.</item>
+        <item>SSB South State Corporation</item>
+        <item>SSBI Summit State Bank</item>
+        <item>SSKN Strata Skin Sciences, Inc.</item>
+        <item>SSNC SS&amp;C Technologies Holdings, Inc.</item>
+        <item>SSNT SilverSun Technologies, Inc.</item>
+        <item>SSP E.W. Scripps Company (The)</item>
+        <item>SSPK Silver Spike Acquisition Corp.</item>
+        <item>SSPKU Silver Spike Acquisition Corp.</item>
+        <item>SSPKW Silver Spike Acquisition Corp.</item>
+        <item>SSRM SSR Mining Inc.</item>
+        <item>SSSS Sutter Rock Capital Corp.</item>
+        <item>SSTI ShotSpotter, Inc.</item>
+        <item>SSYS Stratasys, Ltd.</item>
+        <item>STAA STAAR Surgical Company</item>
+        <item>STAF Staffing 360 Solutions, Inc.</item>
+        <item>STAY Extended Stay America, Inc.</item>
+        <item>STBA S&amp;T Bancorp, Inc.</item>
+        <item>STCN Steel Connect, Inc.</item>
+        <item>STFC State Auto Financial Corporation</item>
+        <item>STIM Neuronetics, Inc.</item>
+        <item>STKL SunOpta, Inc.</item>
+        <item>STKS The ONE Group Hospitality, Inc.</item>
+        <item>STLD Steel Dynamics, Inc.</item>
+        <item>STML Stemline Therapeutics, Inc.</item>
+        <item>STMP Stamps.com Inc.</item>
+        <item>STND Standard AVB Financial Corp.</item>
+        <item>STNE StoneCo Ltd.</item>
+        <item>STOK Stoke Therapeutics, Inc.</item>
+        <item>STRA Strategic Education, Inc.</item>
+        <item>STRL Sterling Construction Company Inc</item>
+        <item>STRM Streamline Health Solutions, Inc.</item>
+        <item>STRO Sutro Biopharma, Inc.</item>
+        <item>STRS Stratus Properties Inc.</item>
+        <item>STRT STRATTEC SECURITY CORPORATION</item>
+        <item>STSA Satsuma Pharmaceuticals, Inc.</item>
+        <item>STX Seagate Technology PLC</item>
+        <item>STXB Spirit of Texas Bancshares, Inc.</item>
+        <item>SUMR Summer Infant, Inc.</item>
+        <item>SUNS Solar Senior Capital Ltd.</item>
+        <item>SUNW Sunworks, Inc.</item>
+        <item>SUPN Supernus Pharmaceuticals, Inc.</item>
+        <item>SURF Surface Oncology, Inc.</item>
+        <item>SUSB iShares ESG </item>
+        <item>SVA Sinovac Biotech, Ltd.</item>
+        <item>SVBI Severn Bancorp Inc</item>
+        <item>SVC Service Properties Trust</item>
+        <item>SVMK SVMK Inc.</item>
+        <item>SVRA Savara, Inc.</item>
+        <item>SVVC Firsthand Technology Value Fund, Inc.</item>
+        <item>SWAV ShockWave Medical, Inc.</item>
+        <item>SWIR Sierra Wireless, Inc.</item>
+        <item>SWKH SWK Holdings Corporation</item>
+        <item>SWKS Skyworks Solutions, Inc.</item>
+        <item>SWTX SpringWorks Therapeutics, Inc.</item>
+        <item>SXTC China SXT Pharmaceuticals, Inc.</item>
+        <item>SY S</item>
+        <item>SYBT Stock Yards Bancorp, Inc.</item>
+        <item>SYBX Synlogic, Inc.</item>
+        <item>SYKE Sykes Enterprises, Incorporated</item>
+        <item>SYNA Synaptics Incorporated</item>
+        <item>SYNC Synacor, Inc.</item>
+        <item>SYNH Syneos Health, Inc.</item>
+        <item>SYNL Synalloy Corporation</item>
+        <item>SYPR Sypris Solutions, Inc.</item>
+        <item>SYRS Syros Pharmaceuticals, Inc.</item>
+        <item>TA TravelCenters of America Inc. </item>
+        <item>TACO Del Taco Restaurants, Inc.</item>
+        <item>TACOW Del Taco Restaurants, Inc.</item>
+        <item>TACT TransAct Technologies Incorporated</item>
+        <item>TAIT Taitron Components Incorporated</item>
+        <item>TANH Tantech Holdings Ltd.</item>
+        <item>TANNI TravelCenters of America Inc. </item>
+        <item>TANNL TravelCenters of America Inc. </item>
+        <item>TANNZ TravelCenters of America Inc. </item>
+        <item>TAOP Taoping Inc.</item>
+        <item>TARA ArTara Therapeutics, Inc. </item>
+        <item>TAST Carrols Restaurant Group, Inc.</item>
+        <item>TATT TAT Technologies Ltd.</item>
+        <item>TAYD Taylor Devices, Inc.</item>
+        <item>TBBK The Bancorp, Inc.</item>
+        <item>TBIO Translate Bio, Inc.</item>
+        <item>TBK Triumph Bancorp, Inc.</item>
+        <item>TBLT ToughBuilt Industries, Inc.</item>
+        <item>TBLTW ToughBuilt Industries, Inc.</item>
+        <item>TBNK Territorial Bancorp Inc.</item>
+        <item>TBPH Theravance Biopharma, Inc.</item>
+        <item>TC TuanChe Limited</item>
+        <item>TCBI Texas Capital Bancshares, Inc.</item>
+        <item>TCBIL Texas Capital Bancshares, Inc.</item>
+        <item>TCBIP Texas Capital Bancshares, Inc.</item>
+        <item>TCBK TriCo Bancshares</item>
+        <item>TCCO Technical Communications Corporation</item>
+        <item>TCDA Tricida, Inc.</item>
+        <item>TCF TCF Financial Corporation</item>
+        <item>TCFC The Community Financial Corporation</item>
+        <item>TCFCP TCF Financial Corporation</item>
+        <item>TCMD Tactile Systems Technology, Inc.</item>
+        <item>TCOM Trip.com Group Limited</item>
+        <item>TCON TRACON Pharmaceuticals, Inc.</item>
+        <item>TCPC BlackRock TCP Capital Corp.</item>
+        <item>TCRD THL Credit, Inc.</item>
+        <item>TCRR TCR2 Therapeutics Inc.</item>
+        <item>TCX Tucows Inc.</item>
+        <item>TDAC Trident Acquisitions Corp.</item>
+        <item>TDACU Trident Acquisitions Corp.</item>
+        <item>TDACW Trident Acquisitions Corp.</item>
+        <item>TEAM Atlassian Corporation Plc</item>
+        <item>TECD Tech Data Corporation</item>
+        <item>TECH Bi</item>
+        <item>TECTP Tectonic Financial, Inc.</item>
+        <item>TEDU Tarena International, Inc.</item>
+        <item>TELA TELA Bio, Inc.</item>
+        <item>TELL Tellurian Inc.</item>
+        <item>TENB Tenable Holdings, Inc.</item>
+        <item>TENX Tenax Therapeutics, Inc.</item>
+        <item>TER Teradyne, Inc.</item>
+        <item>TERP TerraForm Power, Inc.</item>
+        <item>TESS TESSCO Technologies Incorporated</item>
+        <item>TEUM Pareteum Corporation</item>
+        <item>TFFP TFF Pharmaceuticals, Inc.</item>
+        <item>TFSL TFS Financial Corporation</item>
+        <item>TGA TransGlobe Energy Corporation</item>
+        <item>TGEN Tecogen Inc.</item>
+        <item>TGLS Tecnoglass Inc.</item>
+        <item>TGTX TG Therapeutics, Inc.</item>
+        <item>TH Target Hospitality Corp.</item>
+        <item>THBR Thunder Bridge Acquisition II, Ltd.</item>
+        <item>THBRU Thunder Bridge Acquisition II, Ltd.</item>
+        <item>THBRW Thunder Bridge Acquisition II, Ltd.</item>
+        <item>THCA Tuscan Holdings Corp. II</item>
+        <item>THCAU Tuscan Holdings Corp. II</item>
+        <item>THCAW Tuscan Holdings Corp. II</item>
+        <item>THCB Tuscan Holdings Corp.</item>
+        <item>THCBU Tuscan Holdings Corp.</item>
+        <item>THCBW Tuscan Holdings Corp.</item>
+        <item>THFF First Financial Corporation Indiana</item>
+        <item>THMO ThermoGenesis Holdings, Inc.</item>
+        <item>THRM Gentherm Inc</item>
+        <item>THTX Theratechnologies Inc.</item>
+        <item>THWWW Target Hospitality Corp.</item>
+        <item>TIGO Millicom International Cellular S.A.</item>
+        <item>TIGR UP Fintech Holding Limited</item>
+        <item>TILE Interface, Inc.</item>
+        <item>TIPT Tiptree Inc.</item>
+        <item>TITN Titan Machinery Inc.</item>
+        <item>TIVO TiVo Corporation</item>
+        <item>TLC Taiwan Liposome Company, Ltd.</item>
+        <item>TLF Tandy Leather Factory, Inc.</item>
+        <item>TLGT Teligent, Inc.</item>
+        <item>TLND Talend S.A.</item>
+        <item>TLRY Tilray, Inc.</item>
+        <item>TLSA Tiziana Life Sciences plc</item>
+        <item>TMDI Titan Medical Inc.</item>
+        <item>TMDX TransMedics Group, Inc.</item>
+        <item>TMSR TMSR Holding Company Limited</item>
+        <item>TMUS </item>
+        <item>TNAV Telenav, Inc.</item>
+        <item>TNDM Tandem Diabetes Care, Inc.</item>
+        <item>TNXP Tonix Pharmaceuticals Holding Corp.</item>
+        <item>TOCA Tocagen Inc.</item>
+        <item>TOPS TOP Ships Inc.</item>
+        <item>TORC resTORbio, Inc.</item>
+        <item>TOTA Tottenham Acquisition I Limited</item>
+        <item>TOTAR Tottenham Acquisition I Limited</item>
+        <item>TOTAU Tottenham Acquisition I Limited</item>
+        <item>TOTAW Tottenham Acquisition I Limited</item>
+        <item>TOUR Tuniu Corporation</item>
+        <item>TOWN Towne Bank</item>
+        <item>TPCO Tribune Publishing Company</item>
+        <item>TPIC TPI Composites, Inc.</item>
+        <item>TPTX Turning Point Therapeutics, Inc.</item>
+        <item>TRCH Torchlight Energy Resources, Inc.</item>
+        <item>TREE LendingTree, Inc.</item>
+        <item>TRHC Tabula Rasa HealthCare, Inc.</item>
+        <item>TRIB Trinity Biotech plc</item>
+        <item>TRIL Trillium Therapeutics Inc.</item>
+        <item>TRIP TripAdvisor, Inc.</item>
+        <item>TRMB Trimble Inc.</item>
+        <item>TRMD TORM plc</item>
+        <item>TRMK Trustmark Corporation</item>
+        <item>TRMT Tremont Mortgage Trust</item>
+        <item>TRNS Transcat, Inc.</item>
+        <item>TRNX Taronis Technologies, Inc.</item>
+        <item>TROV TrovaGene, Inc.</item>
+        <item>TROW T. Rowe Price Group, Inc.</item>
+        <item>TRPX Therapix Biosciences Ltd.</item>
+        <item>TRS TriMas Corporation</item>
+        <item>TRST TrustCo Bank Corp NY</item>
+        <item>TRUE TrueCar, Inc.</item>
+        <item>TRUP Trupanion, Inc.</item>
+        <item>TRVG trivago N.V.</item>
+        <item>TRVI Trevi Therapeutics, Inc.</item>
+        <item>TRVN Trevena, Inc.</item>
+        <item>TSBK Timberland Bancorp, Inc.</item>
+        <item>TSC TriState Capital Holdings, Inc.</item>
+        <item>TSCAP TriState Capital Holdings, Inc.</item>
+        <item>TSCBP TriState Capital Holdings, Inc.</item>
+        <item>TSCO Tractor Supply Company</item>
+        <item>TSEM Tower Semiconductor Ltd.</item>
+        <item>TSG The Stars Group Inc.</item>
+        <item>TSLA Tesla, Inc. </item>
+        <item>TSRI TSR, Inc.</item>
+        <item>TTD The Trade Desk, Inc.</item>
+        <item>TTEC TTEC Holdings, Inc.</item>
+        <item>TTEK Tetra Tech, Inc.</item>
+        <item>TTGT TechTarget, Inc.</item>
+        <item>TTMI TTM Technologies, Inc.</item>
+        <item>TTNP Titan Pharmaceuticals, Inc.</item>
+        <item>TTOO T2 Biosystems, Inc.</item>
+        <item>TTPH Tetraphase Pharmaceuticals, Inc.</item>
+        <item>TTTN UP Fintech Chin</item>
+        <item>TTWO Tak</item>
+        <item>TUES Tuesday Morning Corp.</item>
+        <item>TURN 180 Degree Capital Corp.</item>
+        <item>TUSK Mammoth Energy Services, Inc.</item>
+        <item>TVIX Credit Suisse AG</item>
+        <item>TVTY Tivity Health, Inc.</item>
+        <item>TW Tradeweb Markets Inc.</item>
+        <item>TWIN Twin Disc, Incorporated</item>
+        <item>TWMC Trans World Entertainment Corp.</item>
+        <item>TWNK Hostess Brands, Inc.</item>
+        <item>TWNKW Hostess Brands, Inc.</item>
+        <item>TWOU 2U, Inc.</item>
+        <item>TWST Twist Bioscience Corporation</item>
+        <item>TXG 10x Genomics, Inc.</item>
+        <item>TXMD TherapeuticsMD, Inc.</item>
+        <item>TXN Texas Instruments Incorporated</item>
+        <item>TXRH Texas Roadhouse, Inc.</item>
+        <item>TYHT Shineco, Inc.</item>
+        <item>TYME Tyme Technologies, Inc.</item>
+        <item>TZAC Tenzing Acquisition Corp.</item>
+        <item>TZACU Tenzing Acquisition Corp.</item>
+        <item>TZACW Tenzing Acquisition Corp.</item>
+        <item>TZOO Travelzoo</item>
+        <item>UAL United Airlines Holdings, Inc.</item>
+        <item>UBCP United Bancorp, Inc.</item>
+        <item>UBFO United Security Bancshares</item>
+        <item>UBOH United Bancshares, Inc.</item>
+        <item>UBSI United Bankshares, Inc.</item>
+        <item>UBX Unity Biotechnology, Inc.</item>
+        <item>UCBI United Community Banks, Inc.</item>
+        <item>UCTT Ultra Clean Holdings, Inc.</item>
+        <item>UEIC Universal Electronics Inc.</item>
+        <item>UEPS Net 1 UEPS Technologies, Inc.</item>
+        <item>UFCS United Fire Group, Inc</item>
+        <item>UFPI Universal Forest Products, Inc.</item>
+        <item>UFPT UFP Technologies, Inc.</item>
+        <item>UG Unite</item>
+        <item>UGLD Credit Suisse AG</item>
+        <item>UHAL Amerco</item>
+        <item>UIHC United Insurance Holdings Corp.</item>
+        <item>ULBI Ultralife Corporation</item>
+        <item>ULH Universal Logistics Holdings, Inc.</item>
+        <item>ULTA Ulta Beauty, Inc.</item>
+        <item>UMBF UMB Financial Corporation</item>
+        <item>UMPQ Umpqua Holdings Corporation</item>
+        <item>UMRX Unum Therapeutics Inc.</item>
+        <item>UNAM Unico American Corporation</item>
+        <item>UNB Union Bankshares, Inc.</item>
+        <item>UNIT Uniti Group Inc.</item>
+        <item>UNTY Unity Bancorp, Inc.</item>
+        <item>UONE Urban One, Inc. </item>
+        <item>UONEK Urban One, Inc. </item>
+        <item>UPLD Upland Software, Inc.</item>
+        <item>UPWK Upwork Inc.</item>
+        <item>URBN Urban Outfitters, Inc.</item>
+        <item>URGN UroGen Pharma Ltd.</item>
+        <item>UROV Urovant Sciences Ltd.</item>
+        <item>USAK USA Truck, Inc.</item>
+        <item>USAP Universal Stainless &amp; Alloy Products, Inc.</item>
+        <item>USAU U.S. Gold Corp.</item>
+        <item>USCR U S Concrete, Inc.</item>
+        <item>USEG U.S. Energy Corp.</item>
+        <item>USIO Usio, Inc.</item>
+        <item>USLM United States Lime &amp; Minerals, Inc.</item>
+        <item>USLV Credit Suisse AG</item>
+        <item>USMC Principal U.S. Meg</item>
+        <item>USOI Credit Suisse AG</item>
+        <item>USWS U.S. Well Services, Inc.</item>
+        <item>USWSW U.S. Well Services, Inc.</item>
+        <item>UTHR United Therapeutics Corporation</item>
+        <item>UTMD Utah Medical Products, Inc.</item>
+        <item>UTSI UTStarcom Holdings Corp</item>
+        <item>UVSP Univest Financial Corporation</item>
+        <item>UXIN Uxin Limited</item>
+        <item>VALU Value Line, Inc.</item>
+        <item>VBFC Village Bank and Trust Financial Corp.</item>
+        <item>VBIV VBI Vaccines, Inc.</item>
+        <item>VBLT Vascular Biogenics Ltd.</item>
+        <item>VBTX Veritex Holdings, Inc.</item>
+        <item>VC Visteon Corporation</item>
+        <item>VCEL Vericel Corporation</item>
+        <item>VCIT Vanguard Intermediat</item>
+        <item>VCLT Vanguard Lon</item>
+        <item>VCNX Vaccinex, Inc.</item>
+        <item>VCSH Vanguard Shor</item>
+        <item>VCTR Victory Capital Holdings, Inc.</item>
+        <item>VCYT Veracyte, Inc.</item>
+        <item>VECO Veeco Instruments Inc.</item>
+        <item>VEON VEON Ltd.</item>
+        <item>VERB Verb Technology Company, Inc.</item>
+        <item>VERBW Verb Technology Company, Inc.</item>
+        <item>VERI Veritone, Inc.</item>
+        <item>VERO Venus Concept Inc. </item>
+        <item>VERU Veru Inc.</item>
+        <item>VERY Vericity, Inc.</item>
+        <item>VFF Village Farms International, Inc.</item>
+        <item>VG Vonage Holdings Corp.</item>
+        <item>VGIT Vanguard Intermediat</item>
+        <item>VGLT Vanguard Lon</item>
+        <item>VGSH Vanguard Shor</item>
+        <item>VIAC ViacomCBS Inc.</item>
+        <item>VIACA ViacomCBS Inc.</item>
+        <item>VIAV Viavi Solutions Inc.</item>
+        <item>VICR Vicor Corporation</item>
+        <item>VIE Viela Bio, Inc.</item>
+        <item>VIIX Credit Suisse AG</item>
+        <item>VIOT Viomi Technology Co., Ltd</item>
+        <item>VIR Vir Biotechnology, Inc.</item>
+        <item>VIRC Virco Manufacturing Corporation</item>
+        <item>VIRT Virtu Financial, Inc.</item>
+        <item>VISL Vislink Technologies, Inc.</item>
+        <item>VIVE Viveve Medical, Inc.</item>
+        <item>VIVO Meridian Bioscience Inc.</item>
+        <item>VKTX Viking Therapeutics, Inc.</item>
+        <item>VKTXW Viking Therapeutics, Inc.</item>
+        <item>VLGEA Village Super Market, Inc.</item>
+        <item>VLY Valley National Bancorp</item>
+        <item>VLYPO Valley National Bancorp</item>
+        <item>VLYPP Valley National Bancorp</item>
+        <item>VMBS Vanguard Mortgag</item>
+        <item>VMD Viemed Healthcare, Inc.</item>
+        <item>VNDA Vanda Pharmaceuticals Inc.</item>
+        <item>VNET 21Vianet Group, Inc.</item>
+        <item>VNOM Viper Energy Partners LP</item>
+        <item>VNQI Vanguard Global e</item>
+        <item>VOD Vodafone Group Plc</item>
+        <item>VOXX VOXX International Corporation</item>
+        <item>VRA Vera Bradley, Inc.</item>
+        <item>VRAY ViewRay, Inc.</item>
+        <item>VRCA Verrica Pharmaceuticals Inc.</item>
+        <item>VREX Varex Imaging Corporation</item>
+        <item>VRML Vermillion, Inc.</item>
+        <item>VRNA Verona Pharma plc</item>
+        <item>VRNS Varonis Systems, Inc.</item>
+        <item>VRNT Verint Systems Inc.</item>
+        <item>VRRM Verra Mobility Corporation</item>
+        <item>VRSK Verisk Analytics, Inc.</item>
+        <item>VRSN VeriSign, Inc.</item>
+        <item>VRTS Virtus Investment Partners, Inc.</item>
+        <item>VRTU Virtusa Corporation</item>
+        <item>VRTX Vertex Pharmaceuticals Incorporated</item>
+        <item>VSAT ViaSat, Inc.</item>
+        <item>VSEC VSE Corporation</item>
+        <item>VSMV VictoryShares US Mult</item>
+        <item>VSTM Verastem, Inc.</item>
+        <item>VTGN VistaGen Therapeutics, Inc.</item>
+        <item>VTIP Vanguard Shor</item>
+        <item>VTIQ VectoIQ Acquisition Corp.</item>
+        <item>VTIQU VectoIQ Acquisition Corp.</item>
+        <item>VTIQW VectoIQ Acquisition Corp.</item>
+        <item>VTNR Vertex Energy, Inc</item>
+        <item>VTSI VirTra, Inc.</item>
+        <item>VTVT vTv Therapeutics Inc.</item>
+        <item>VUZI Vuzix Corporation</item>
+        <item>VVPR VivoPower International PLC</item>
+        <item>VVUS VIVUS, Inc.</item>
+        <item>VXRT Vaxart, Inc.</item>
+        <item>VYGR Voyager Therapeutics, Inc.</item>
+        <item>WABC Westamerica Bancorporation</item>
+        <item>WAFD Washington Federal, Inc.</item>
+        <item>WAFU Wah Fu Education Group Limited</item>
+        <item>WASH Washington Trust Bancorp, Inc.</item>
+        <item>WATT Energous Corporation</item>
+        <item>WB Weibo Corporation</item>
+        <item>WBA Walgreens Boots Alliance, Inc.</item>
+        <item>WDAY Workday, Inc.</item>
+        <item>WDC Western Digital Corporation</item>
+        <item>WDFC W</item>
+        <item>WEBK Wellesley Bancorp, Inc.</item>
+        <item>WEN Wendy\'s Company (The)</item>
+        <item>WERN Werner Enterprises, Inc.</item>
+        <item>WETF WisdomTree Investments, Inc.</item>
+        <item>WEYS Weyco Group, Inc.</item>
+        <item>WHF WhiteHorse Finance, Inc.</item>
+        <item>WHFBZ WhiteHorse Finance, Inc.</item>
+        <item>WHLM Wilhelmina International, Inc.</item>
+        <item>WHLR Wheeler Real Estate Investment Trust, Inc.</item>
+        <item>WHLRD Wheeler Real Estate Investment Trust, Inc.</item>
+        <item>WHLRP Wheeler Real Estate Investment Trust, Inc.</item>
+        <item>WIFI Boingo Wireless, Inc.</item>
+        <item>WILC G. Will</item>
+        <item>WIMI WiMi Hologram Cloud Inc.</item>
+        <item>WINA Winmark Corporation</item>
+        <item>WING Wingstop Inc.</item>
+        <item>WINS Wins Finance Holdings Inc.</item>
+        <item>WIRE Encore Wire Corporation</item>
+        <item>WISA Summit Wireless Technologies, Inc.</item>
+        <item>WIX Wix.com Ltd.</item>
+        <item>WKEY WISeKey International Holding AG</item>
+        <item>WKHS Workhorse Group, Inc.</item>
+        <item>WLDN Willdan Group, Inc.</item>
+        <item>WLFC Willis Lease Finance Corporation</item>
+        <item>WLTW Willis Towers Watson Public Limited Company</item>
+        <item>WMGI Wright Medical Group N.V.</item>
+        <item>WNEB Western New England Bancorp, Inc.</item>
+        <item>WORX SCWorx Corp.</item>
+        <item>WPRT Westport Fuel Systems Inc</item>
+        <item>WRLD World Acceptance Corporation</item>
+        <item>WRTC Wrap Technologies, Inc.</item>
+        <item>WSBC WesBanco, Inc.</item>
+        <item>WSBF Waterstone Financial, Inc.</item>
+        <item>WSC WillScot Corporation</item>
+        <item>WSFS WSFS Financial Corporation</item>
+        <item>WSG Wanda Sports Group Company Limited</item>
+        <item>WSTG Wayside Technology Group, Inc.</item>
+        <item>WSTL Westell Technologies, Inc.</item>
+        <item>WTBA West Bancorporation</item>
+        <item>WTER The Alkaline Water Company Inc.</item>
+        <item>WTFC Wintrust Financial Corporation</item>
+        <item>WTFCM Wintrust Financial Corporation</item>
+        <item>WTRE Watford Holdings Ltd.</item>
+        <item>WTREP Watford Holdings Ltd.</item>
+        <item>WTRH Waitr Holdings Inc.</item>
+        <item>WVE Wave Life Sciences Ltd.</item>
+        <item>WVFC WVS Financial Corp.</item>
+        <item>WVVI Willamette Valley Vineyards, Inc.</item>
+        <item>WVVIP Willamette Valley Vineyards, Inc.</item>
+        <item>WW WW International, Inc. </item>
+        <item>WWD Woodward, Inc.</item>
+        <item>WWR Westwater Resources, Inc.</item>
+        <item>WYNN Wynn Resorts, Limited</item>
+        <item>XAIR Beyond Air, Inc.</item>
+        <item>XBIO Xenetic Biosciences, Inc.</item>
+        <item>XBIOW Xenetic Biosciences, Inc.</item>
+        <item>XBIT XBiotech Inc.</item>
+        <item>XCUR Exicure, Inc.</item>
+        <item>XEL Xcel Energy Inc.</item>
+        <item>XELA Exela Technologies, Inc.</item>
+        <item>XELB Xcel Brands, Inc</item>
+        <item>XENE Xenon Pharmaceuticals Inc.</item>
+        <item>XENT Intersect ENT, Inc.</item>
+        <item>XERS Xeris Pharmaceuticals, Inc.</item>
+        <item>XFOR X4 Pharmaceuticals, Inc.</item>
+        <item>XGN Exagen Inc.</item>
+        <item>XLNX Xilinx, Inc.</item>
+        <item>XLRN Acceleron Pharma Inc.</item>
+        <item>XNCR Xencor, Inc.</item>
+        <item>XNET Xunlei Limited</item>
+        <item>XOG Extraction Oil &amp; Gas, Inc.</item>
+        <item>XOMA XOMA Corporation</item>
+        <item>XONE The ExOne Company</item>
+        <item>XP XP Inc.</item>
+        <item>XPEL XPEL, Inc.</item>
+        <item>XPER Xperi Corporation </item>
+        <item>XRAY DENTSPLY SIRONA Inc.</item>
+        <item>XSPA XpresSpa Group, Inc. </item>
+        <item>XTLB XTL Biopharmaceuticals Ltd.</item>
+        <item>YGYI Youngevity International, Inc.</item>
+        <item>YGYIP Youngevity International, Inc.</item>
+        <item>YI 111, Inc.</item>
+        <item>YIN Yintech Investment Holdings Limited</item>
+        <item>YJ Yunji Inc.</item>
+        <item>YMAB </item>
+        <item>YNDX Yandex N.V.</item>
+        <item>YORW The York Water Company</item>
+        <item>YRCW YRC Worldwide, Inc.</item>
+        <item>YTEN Yield10 Bioscience, Inc. </item>
+        <item>YTRA Yatra Online, Inc.</item>
+        <item>YVR Liquid Media Group Ltd.</item>
+        <item>YY JOYY Inc.</item>
+        <item>Z Zillow Group, Inc.</item>
+        <item>ZAGG ZAGG Inc</item>
+        <item>ZBRA Zebra Technologies Corporation</item>
+        <item>ZCMD Zhongchao Inc.</item>
+        <item>ZEAL Zealand Pharma A/S</item>
+        <item>ZEUS Olympic Steel, Inc.</item>
+        <item>ZFGN Zafgen, Inc.</item>
+        <item>ZG Zillow Group, Inc.</item>
+        <item>ZGNX Zogenix, Inc.</item>
+        <item>ZGYH Yunhong International</item>
+        <item>ZGYHR Yunhong International</item>
+        <item>ZGYHU Yunhong International</item>
+        <item>ZGYHW Yunhong International</item>
+        <item>ZION Zions Bancorporation N.A.</item>
+        <item>ZIONL Zions Bancorporation N.A.</item>
+        <item>ZIONN Zions Bancorporation N.A.</item>
+        <item>ZIONO Zions Bancorporation N.A.</item>
+        <item>ZIONP Zions Bancorporation N.A.</item>
+        <item>ZIONW Zions Bancorporation N.A.</item>
+        <item>ZIOP ZIOPHARM Oncology Inc</item>
+        <item>ZIV Credit Suisse AG</item>
+        <item>ZIXI Zix Corporation</item>
+        <item>ZKIN ZK International Group Co., Ltd</item>
+        <item>ZLAB Zai Lab Limited</item>
+        <item>ZM Zoom Video Communications, Inc.</item>
+        <item>ZN Zion Oil </item>
+        <item>ZNGA Zynga Inc.</item>
+        <item>ZNTL Zentalis Pharmaceuticals, Inc.</item>
+        <item>ZNWAA Zion Oil </item>
+        <item>ZS Zscaler, Inc.</item>
+        <item>ZSAN Zosano Pharma Corporation</item>
+        <item>ZUMZ Zumiez Inc.</item>
+        <item>ZVO Zovio Inc.</item>
+        <item>ZYNE Zynerba Pharmaceuticals, Inc.</item>
+        <item>ZYXI Zynex, Inc.</item>
+        <item>NOK Nokia Corporation</item>
+
+
+    </string-array>
+</resources>
